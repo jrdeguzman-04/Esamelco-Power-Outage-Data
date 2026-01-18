@@ -1,48 +1,35 @@
 import requests
 
 def fetch_posts():
-    access_token = 'EAAW0omOwcTgBQLh6wpwjtXZAMWOjDTulBWDvxRDqc0mwlztL2bO5lYFtLw9019D3oLkg8IMqufrrABv1OGyZAVjaAG6Xfu7Xm3NZCIojLCH4vdJOCpKZAl5xW6ebK5kaC475skkoZCYaMCZCvwQ4hJJy95PLQmSGzNcGVyME2EVgP2GVkykDZBS5FbXRWZBzlPBoy83WohCK'
+    # Replace with your valid Access Token
+    access_token = "EAAW0omOwcTgBQLh6wpwjtXZAMWOjDTulBWDvxRDqc0mwlztL2bO5lYFtLw9019D3oLkg8IMqufrrABv1OGyZAVjaAG6Xfu7Xm3NZCIojLCH4vdJOCpKZAl5xW6ebK5kaC475skkoZCYaMCZCvwQ4hJJy95PLQmSGzNcGVyME2EVgP2GVkykDZBS5FbXRWZBzlPBoy83WohCK"
     fb_id = "828975863643614"
 
     url = f"https://graph.facebook.com/v24.0/{fb_id}/posts"
     params = {
         "access_token": access_token,
-        "fields": "message,created_time,id"
+        "fields": "id,message,created_time",
+        "limit": 25
     }
 
     try:
-        response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()  # raise error if status code != 200
-        data = response.json().get("data", [])  # get list of posts
-        posts = []
+        response = requests.get(url, params=params)
+        response.raise_for_status() # Raises an error for 400/500 status codes
+        
+        raw_data = response.json().get("data", [])
+        clean_posts = []
 
-        for item in data:
-            post = {
-                "id": item.get("id"),
-                "message": item.get("message"),
-                "created_time": item.get("created_time")
-            }
-            posts.append(post)
+        for post in raw_data:
+            # Only keep posts that actually have a message (removes image-only posts)
+            if 'message' in post and post['message'].strip():
+                clean_posts.append({
+                    "id": post.get("id"),
+                    "created_time": post.get("created_time"),
+                    "message": post.get("message", "")
+                })
 
-        return posts
+        return clean_posts
 
-    except requests.ConnectionError:
-        print("Error: Could not connect to Facebook API.")
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching posts: {e}")
         return []
-    except requests.Timeout:
-        print("Error: Request timed out.")
-        return []
-    except requests.HTTPError as e:
-        print(f"HTTP error occurred: {e}")
-        return []
-    except requests.RequestException as e:
-        print(f"Some error occurred: {e}")
-        return []
-    except Exception as e:
-        print(f"Unexpected error: {e}")
-        return []
-
-# Example usage
-posts = fetch_posts()
-for p in posts:
-    print(p)
