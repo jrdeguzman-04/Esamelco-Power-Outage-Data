@@ -2,7 +2,7 @@ import re
 import json
 
 # 1. Load the JSON file
-input_file = 'data/bronze/all_posts.json'
+input_file = 'data/bronze/filtered_interruption data.json'
 output_file = 'data/silver/semi_cleaned_data.json'
 
 try:
@@ -13,7 +13,7 @@ except FileNotFoundError:
     print(f"Error: File {input_file} not found. Please check the path.")
     raw_post = []
 
-# --- FUNCTION 1: EXTRACT AFFECTED AREA ---
+
 def clean_area_data(text):
     if not text: 
         return "Not Found"

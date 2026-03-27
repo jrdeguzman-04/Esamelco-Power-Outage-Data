@@ -4,7 +4,7 @@ import re
 def filter_interruption():
     try:
         with open(
-            "data/bronze/try_posts.json","r",encoding="utf-8") as f:
+            "data/bronze/raw_posts.json","r",encoding="utf-8") as f:
             data = json.load(f)
 
     except FileNotFoundError:
@@ -23,7 +23,7 @@ def filter_interruption():
 
     if matches:
         try:
-            with open("data/bronze/filtered data.json", "w", encoding="utf-8") as f:
+            with open("data/bronze/filtered_interruption data.json", "w", encoding="utf-8") as f:
                 json.dump(matches, f, indent=4, ensure_ascii=False)
             print("File successfully added")
 

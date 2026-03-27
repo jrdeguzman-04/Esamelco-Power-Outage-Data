@@ -6,10 +6,8 @@ load_dotenv()
 access_token = os.getenv("ACCESS_TOKEN")
 fb_id = os.getenv("FB_ID")
 def fetch_posts():
-    
-
-    print(access_token)
-    print(fb_id)
+    print(f"Fetching posts for FB_ID: {fb_id}")
+    print(f"Access token available: {bool(access_token)}")
     
     url = f"https://graph.facebook.com/v24.0/{fb_id}/posts"
     params = {
@@ -19,14 +17,20 @@ def fetch_posts():
     }
 
     try:
+        print(f"Making API call to: {url}")
         response = requests.get(url, params=params)
-        response.raise_for_status()
+        print(f"Response status: {response.status_code}")
+        
+        if response.status_code != 200:
+            print(f"API Error: {response.text}")
+            return []
         
         raw_data = response.json().get("data", [])
+        print(f"Retrieved {len(raw_data)} posts from API")
+        
         clean_posts = []
 
         for post in raw_data:
-           
             if 'message' in post and post['message'].strip():
                 clean_posts.append({
                     "id": post.get("id"),
@@ -34,6 +38,7 @@ def fetch_posts():
                     "message": post.get("message", "")
                 })
 
+        print(f"Filtered to {len(clean_posts)} posts with messages")
         return clean_posts
 
     except requests.exceptions.RequestException as e:

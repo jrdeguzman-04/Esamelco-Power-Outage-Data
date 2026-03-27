@@ -1,0 +1,274 @@
+[
+    {
+        "id":8.289758636e+32,
+        "created_time":"2025-12-10 10:31:35+00:00",
+        "original_message":"⚡ POWER INTERRUPTION\nDate: December 12, 2025\nTime: 1:00 PM – 5:00 PM\nArea: Borongan\nReason: Line maintenance",
+        "Date":"December 12, 2025",
+        "Time":"1:00 PM - 5:00 PM",
+        "Affected Area(s)":"Borongan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2025-12-10 12:02:12+00:00",
+        "original_message":"⚡ POWER INTERRUPTION ALERT ⚡\nDate: December 12, 2025\nTime: 1:00 PM – 5:00 PM\nArea: San Isidro\nReason: Line maintenance",
+        "Date":"December 12, 2025",
+        "Time":"1:00 PM - 5:00 PM",
+        "Affected Area(s)":"San Isidro"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2025-12-11 02:59:20+00:00",
+        "original_message":"⚡ POWER INTERRUPTION ALERT ⚡\nDate: December 13, 2025\nTime: 1:00 AM – 11:00 AM\nArea: San Julian\nReason: Line Clear maintenance",
+        "Date":"December 13, 2025",
+        "Time":"1:00 AM - 11:00 AM",
+        "Affected Area(s)":"San Julian"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-04 10:50:50+00:00",
+        "original_message":"⚡ POWER INTERRUPTION\nDate: December 12, 2025\nTime: 1:00 PM – 5:00 PM\nArea: Borongan\nReason: Line maintenance",
+        "Date":"December 12, 2025",
+        "Time":"1:00 PM - 5:00 PM",
+        "Affected Area(s)":"Borongan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Essu Main Campus"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Barangay Maypangdan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Borongan City"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Barangay 2"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Balangakayan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 02:11:17+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: \n🗓JANUARY 7, 2026 - TODAY\n🕛10:30 AM - 12:00 NN - ESSU Compound\n🕛10:00 AM - 3:00 PM - Brgy. 2, Balangkayan\nACTIVITIES:\n✅Removal of old wood pole and distribution transformer at the ESSU Main compound as requested by ESSU Management.\n✅Vegetation line clearing of primary and secondary line as requested by the Balangkayan LGU.\nAFFECTED AREAS:\n📍ESSU Main Campus, Brgy. Maypangdan, Borongan City\n📍Brgy. 2, Balangakayan, Eastern Samar\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"JANUARY 7, 2026 - TODAY",
+        "Time":"10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
+        "Affected Area(s)":"Eastern Samar"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-07 10:01:58+00:00",
+        "original_message":"Power Update \nEmergency power interruption today December 19, 2025 from 9am to 4pm.\nActivity: Remove guy wire & tap guy in Brgy. 03, San Policarpo \n( Requested by Municipal Vice Mayor Nicart) \nAffected Area\/s: San Policarpo Poblacion ( Brgy. 01- 05) \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. \nEsamelco Burak contact numbers\n0969-4898893- Line Maintenance\n0969-4898861- Esamelco Burak Office",
+        "Date":"Emergency power interruption today December 19, 2025 from 9am to 4pm.",
+        "Time":"9am to 4pm",
+        "Affected Area(s)":"San Policarpo Poblacion  Barangay 01 05"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Barangay San Mateo"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"San Juan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Aet"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Barangay Mabini Sulat"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Thank You For Your Patience"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Underst"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:21+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area\/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"9:00am - 9:30am",
+        "Affected Area(s)":"Ing"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:49+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️: NOVEMBER 29, 2025 (SATURDAY)\n🕖: 8:00 AM TO 11:00 AM\nAFFECTED AREAS:\n📍BRGY. MAYPANGDAN TO SMART TOWER, MAYPANGDAN\nACTIVITY :\n⚡VEGETATION CLEARING",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"8:00 AM TO 11:00 AM",
+        "Affected Area(s)":"Barangay Maypangdan To Smart Tower"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:40:49+00:00",
+        "original_message":"ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️: NOVEMBER 29, 2025 (SATURDAY)\n🕖: 8:00 AM TO 11:00 AM\nAFFECTED AREAS:\n📍BRGY. MAYPANGDAN TO SMART TOWER, MAYPANGDAN\nACTIVITY :\n⚡VEGETATION CLEARING",
+        "Date":"D POWER INTERRUPTION!📢",
+        "Time":"8:00 AM TO 11:00 AM",
+        "Affected Area(s)":"Maypangdan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Borongan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Taft"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Quinapondan"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Balangiga Substations"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Entire Province"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"All Substations Above Will Be Briefly Interrupted For About 30 Minutes Between 600 Am To 700 Am On December 3"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"2025 For The Isolation"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Another 30 Minutes"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"Between 500 Pm To 600 Pm On December 4"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:17+00:00",
+        "original_message":"NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA\/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "Date":"D POWER INTERRUPTION!!📢",
+        "Time":"6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "Affected Area(s)":"2025 For The Normalization"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:48+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: DECEMBER 2, 2025 - TODAY\n🕛11:00 AM - 3:00 PM\nACTIVITIES:\n✅Conductor payout\n✅Transferring of secondary line at Wheelers Apartelle in Brgy. Sabang South, Borongan Citiy\nAFFECTED AREA:\n📍Brgy. Sabang South, Borongan City\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"DECEMBER 2, 2025 - TODAY",
+        "Time":"11:00 AM - 3:00 PM",
+        "Affected Area(s)":"Barangay Sabang South"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-01-13 11:41:48+00:00",
+        "original_message":"ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: DECEMBER 2, 2025 - TODAY\n🕛11:00 AM - 3:00 PM\nACTIVITIES:\n✅Conductor payout\n✅Transferring of secondary line at Wheelers Apartelle in Brgy. Sabang South, Borongan Citiy\nAFFECTED AREA:\n📍Brgy. Sabang South, Borongan City\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "Date":"DECEMBER 2, 2025 - TODAY",
+        "Time":"11:00 AM - 3:00 PM",
+        "Affected Area(s)":"Borongan City"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-03-27 01:30:43+00:00",
+        "original_message":"EMERGENCY POWER INTERRUPTION!📢\n🗓️ March 25, 2026 (TODAY)  \n🕗 8:00 AM - 5:00 PM\nACTIVITIES :\n✅ Construction of three phase distribution lines for Guiuan general hospital \nAFFECTED AREA\/S: \n📍Brgy. 8, Brgy. 9A hospital village Guiuan \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. Thank you for your patience and understanding.",
+        "Date":"March 25, 2026",
+        "Time":"8:00 AM - 5:00 PM",
+        "Affected Area(s)":"Barangay 8"
+    },
+    {
+        "id":8.289758636e+32,
+        "created_time":"2026-03-27 01:30:43+00:00",
+        "original_message":"EMERGENCY POWER INTERRUPTION!📢\n🗓️ March 25, 2026 (TODAY)  \n🕗 8:00 AM - 5:00 PM\nACTIVITIES :\n✅ Construction of three phase distribution lines for Guiuan general hospital \nAFFECTED AREA\/S: \n📍Brgy. 8, Brgy. 9A hospital village Guiuan \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. Thank you for your patience and understanding.",
+        "Date":"March 25, 2026",
+        "Time":"8:00 AM - 5:00 PM",
+        "Affected Area(s)":"Barangay 9A Hospital Village Guiuan"
+    }
+]

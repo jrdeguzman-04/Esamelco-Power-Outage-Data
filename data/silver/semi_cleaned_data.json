@@ -1,13 +1,5 @@
 [
     {
-        "id": "828975863643614_122110975431155673",
-        "created_time": "2026-01-07T10:01:58+0000",
-        "original_message": "Power Update \nEmergency power interruption today December 19, 2025 from 9am to 4pm.\nActivity: Remove guy wire & tap guy in Brgy. 03, San Policarpo \n( Requested by Municipal Vice Mayor Nicart) \nAffected Area/s: San Policarpo Poblacion ( Brgy. 01- 05) \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. \nEsamelco Burak contact numbers\n0969-4898893- Line Maintenance\n0969-4898861- Esamelco Burak Office",
-        "extracted_date": "Emergency power interruption today December 19, 2025 from 9am to 4pm.",
-        "extracted_time": "9am to 4pm",
-        "extracted_area": "San Policarpo Poblacion ( Brgy. 01- 05)"
-    },
-    {
         "id": "828975863643614_122100737247155673",
         "created_time": "2025-12-10T10:31:35+0000",
         "original_message": "⚡ POWER INTERRUPTION\nDate: December 12, 2025\nTime: 1:00 PM – 5:00 PM\nArea: Borongan\nReason: Line maintenance",
@@ -46,5 +38,53 @@
         "extracted_date": "JANUARY 7, 2026 - TODAY",
         "extracted_time": "10:30 AM - 12:00 NN, 10:00 AM - 3:00 PM",
         "extracted_area": "📍ESSU Main Campus, Brgy. Maypangdan, Borongan City, 📍Brgy. 2, Balangakayan, Eastern Samar"
+    },
+    {
+        "id": "828975863643614_122110975431155673",
+        "created_time": "2026-01-07T10:01:58+0000",
+        "original_message": "Power Update \nEmergency power interruption today December 19, 2025 from 9am to 4pm.\nActivity: Remove guy wire & tap guy in Brgy. 03, San Policarpo \n( Requested by Municipal Vice Mayor Nicart) \nAffected Area/s: San Policarpo Poblacion ( Brgy. 01- 05) \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. \nEsamelco Burak contact numbers\n0969-4898893- Line Maintenance\n0969-4898861- Esamelco Burak Office",
+        "extracted_date": "Emergency power interruption today December 19, 2025 from 9am to 4pm.",
+        "extracted_time": "9am to 4pm",
+        "extracted_area": "San Policarpo Poblacion ( Brgy. 01- 05)"
+    },
+    {
+        "id": "828975863643614_122112244977155673",
+        "created_time": "2026-01-13T11:40:21+0000",
+        "original_message": "ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️Nov. 28, 2025 (Friday)\n⏱️9:00am - 9:30am \nCause: \n📌magpuputol hn kahoy nga harani hit primary line \nAffected area/s: \n📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat \nThank you for your patience and understanding.",
+        "extracted_date": "D POWER INTERRUPTION!📢",
+        "extracted_time": "9:00am - 9:30am",
+        "extracted_area": "📌Brgy. San Mateo, San Juan, A-et, and brgy. Mabini Sulat, Thank you for your patience and understanding."
+    },
+    {
+        "id": "828975863643614_122112245079155673",
+        "created_time": "2026-01-13T11:40:49+0000",
+        "original_message": "ESAMELCO SCHEDULED POWER INTERRUPTION!📢\n🗓️: NOVEMBER 29, 2025 (SATURDAY)\n🕖: 8:00 AM TO 11:00 AM\nAFFECTED AREAS:\n📍BRGY. MAYPANGDAN TO SMART TOWER, MAYPANGDAN\nACTIVITY :\n⚡VEGETATION CLEARING",
+        "extracted_date": "D POWER INTERRUPTION!📢",
+        "extracted_time": "8:00 AM TO 11:00 AM",
+        "extracted_area": "📍BRGY. MAYPANGDAN TO SMART TOWER, MAYPANGDAN"
+    },
+    {
+        "id": "828975863643614_122112245241155673",
+        "created_time": "2026-01-13T11:41:17+0000",
+        "original_message": "NGCP SCHEDULED POWER INTERRUPTION!!📢\nDATE: DECEMBER 3 and 4, 2025\n6:00 AM - 7:00 AM and 5:00 PM - 6:00 PM\nACTIVITIES:\n☑ Transmission line maintenance and correction of defects.\nAFFECTED AREA/S:\nBorongan, Taft, Quinapondan, and Balangiga Substations\n(entire province)\n*All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization.\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya. Damo nga salamat!",
+        "extracted_date": "D POWER INTERRUPTION!!📢",
+        "extracted_time": "6:00 AM - 7:00 AM, 5:00 PM - 6:00 PM, 6:00 AM to 7:00 AM, 5:00 PM to 6:00 PM",
+        "extracted_area": "Borongan, Taft, Quinapondan, and Balangiga Substations, (entire province), *All substations above will be briefly interrupted for about 30 minutes between 6:00 AM to 7:00 AM on DECEMBER 3, 2025 for the isolation , and another 30 minutes, between 5:00 PM to 6:00 PM on DECEMBER 4, 2025 for the normalization."
+    },
+    {
+        "id": "828975863643614_122112245409155673",
+        "created_time": "2026-01-13T11:41:48+0000",
+        "original_message": "ESAMELCO EMERGENCY POWER INTERRUPTION!!📢\nWHEN: DECEMBER 2, 2025 - TODAY\n🕛11:00 AM - 3:00 PM\nACTIVITIES:\n✅Conductor payout\n✅Transferring of secondary line at Wheelers Apartelle in Brgy. Sabang South, Borongan Citiy\nAFFECTED AREA:\n📍Brgy. Sabang South, Borongan City\nPAHINUMDUM:\nIne nga trabahuon in pwede matapos hin temprano ngan pwede maibalik iton kuryente antis pa iton iya naka-schedule nga oras. Sanglit, para maiwasan iton disgrasya, itrato nga pirme mayda kuryente an mga linya! Damo nga salamat!",
+        "extracted_date": "DECEMBER 2, 2025 - TODAY",
+        "extracted_time": "11:00 AM - 3:00 PM",
+        "extracted_area": "📍Brgy. Sabang South, Borongan City"
+    },
+    {
+        "id": "828975863643614_122122798143155673",
+        "created_time": "2026-03-27T01:30:43+0000",
+        "original_message": "EMERGENCY POWER INTERRUPTION!📢\n🗓️ March 25, 2026 (TODAY)  \n🕗 8:00 AM - 5:00 PM\nACTIVITIES :\n✅ Construction of three phase distribution lines for Guiuan general hospital \nAFFECTED AREA/S: \n📍Brgy. 8, Brgy. 9A hospital village Guiuan \nWe're sorry for the inconvenience. We are working as quickly and safely as possible to get lights back on. Thank you for your patience and understanding.",
+        "extracted_date": "March 25, 2026",
+        "extracted_time": "8:00 AM - 5:00 PM",
+        "extracted_area": "📍Brgy. 8, Brgy. 9A hospital village Guiuan"
     }
 ]

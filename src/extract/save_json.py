@@ -3,8 +3,7 @@ import os
 from ingest import fetch_posts
 
 # This is where your master list of posts will live
-#opening the file
-JSON_FILE_PATH = "data/bronze/try_posts.json"
+JSON_FILE_PATH = "data/bronze/raw_posts.json"
 
 def run_pipeline():
     print("Connecting to Facebook...")
@@ -26,7 +25,6 @@ def run_pipeline():
 
     # 2. Create a set of IDs we already have to prevent duplicates
     existing_ids = {post['id'] for post in existing_posts}
-
 
     # 3. Filter only the brand new posts
     added_count = 0

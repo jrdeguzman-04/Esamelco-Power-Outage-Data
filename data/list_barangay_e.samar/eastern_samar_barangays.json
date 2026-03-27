@@ -1,0 +1,2987 @@
+[
+    {
+        "Barangay":"Aguinaldo",
+        "Municipality":"Arteche",
+        "Full_Name":"Aguinaldo, Arteche"
+    },
+    {
+        "Barangay":"Balud",
+        "Municipality":"Arteche",
+        "Full_Name":"Balud, Arteche"
+    },
+    {
+        "Barangay":"Bato",
+        "Municipality":"Arteche",
+        "Full_Name":"Bato, Arteche"
+    },
+    {
+        "Barangay":"Beri",
+        "Municipality":"Arteche",
+        "Full_Name":"Beri, Arteche"
+    },
+    {
+        "Barangay":"Bigo",
+        "Municipality":"Arteche",
+        "Full_Name":"Bigo, Arteche"
+    },
+    {
+        "Barangay":"Buenavista",
+        "Municipality":"Arteche",
+        "Full_Name":"Buenavista, Arteche"
+    },
+    {
+        "Barangay":"Cagsalay",
+        "Municipality":"Arteche",
+        "Full_Name":"Cagsalay, Arteche"
+    },
+    {
+        "Barangay":"Campacion",
+        "Municipality":"Arteche",
+        "Full_Name":"Campacion, Arteche"
+    },
+    {
+        "Barangay":"Carapdapan",
+        "Municipality":"Arteche",
+        "Full_Name":"Carapdapan, Arteche"
+    },
+    {
+        "Barangay":"Casidman",
+        "Municipality":"Arteche",
+        "Full_Name":"Casidman, Arteche"
+    },
+    {
+        "Barangay":"Catumsan",
+        "Municipality":"Arteche",
+        "Full_Name":"Catumsan, Arteche"
+    },
+    {
+        "Barangay":"Central",
+        "Municipality":"Arteche",
+        "Full_Name":"Central, Arteche"
+    },
+    {
+        "Barangay":"Concepcion",
+        "Municipality":"Arteche",
+        "Full_Name":"Concepcion, Arteche"
+    },
+    {
+        "Barangay":"Garden",
+        "Municipality":"Arteche",
+        "Full_Name":"Garden, Arteche"
+    },
+    {
+        "Barangay":"Inayawan",
+        "Municipality":"Arteche",
+        "Full_Name":"Inayawan, Arteche"
+    },
+    {
+        "Barangay":"Macarthur",
+        "Municipality":"Arteche",
+        "Full_Name":"Macarthur, Arteche"
+    },
+    {
+        "Barangay":"Rawis",
+        "Municipality":"Arteche",
+        "Full_Name":"Rawis, Arteche"
+    },
+    {
+        "Barangay":"Tangbo",
+        "Municipality":"Arteche",
+        "Full_Name":"Tangbo, Arteche"
+    },
+    {
+        "Barangay":"Tawagan",
+        "Municipality":"Arteche",
+        "Full_Name":"Tawagan, Arteche"
+    },
+    {
+        "Barangay":"Tebalawon",
+        "Municipality":"Arteche",
+        "Full_Name":"Tebalawon, Arteche"
+    },
+    {
+        "Barangay":"Bacjao",
+        "Municipality":"Balangiga",
+        "Full_Name":"Bacjao, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion I",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion I, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion II",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion II, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion III",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion III, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion IV",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion IV, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion V",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion V, Balangiga"
+    },
+    {
+        "Barangay":"Barangay Poblacion VI",
+        "Municipality":"Balangiga",
+        "Full_Name":"Barangay Poblacion VI, Balangiga"
+    },
+    {
+        "Barangay":"Cag-olango",
+        "Municipality":"Balangiga",
+        "Full_Name":"Cag-olango, Balangiga"
+    },
+    {
+        "Barangay":"Cansumangcay",
+        "Municipality":"Balangiga",
+        "Full_Name":"Cansumangcay, Balangiga"
+    },
+    {
+        "Barangay":"Guinmaayohan",
+        "Municipality":"Balangiga",
+        "Full_Name":"Guinmaayohan, Balangiga"
+    },
+    {
+        "Barangay":"Maybunga",
+        "Municipality":"Balangiga",
+        "Full_Name":"Maybunga, Balangiga"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"Balangiga",
+        "Full_Name":"San Miguel, Balangiga"
+    },
+    {
+        "Barangay":"Santa Rosa",
+        "Municipality":"Balangiga",
+        "Full_Name":"Santa Rosa, Balangiga"
+    },
+    {
+        "Barangay":"Balogo",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Balogo, Balangkayan"
+    },
+    {
+        "Barangay":"Bangon",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Bangon, Balangkayan"
+    },
+    {
+        "Barangay":"Cabay",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Cabay, Balangkayan"
+    },
+    {
+        "Barangay":"Caisawan",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Caisawan, Balangkayan"
+    },
+    {
+        "Barangay":"Cantubi",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Cantubi, Balangkayan"
+    },
+    {
+        "Barangay":"General Malvar",
+        "Municipality":"Balangkayan",
+        "Full_Name":"General Malvar, Balangkayan"
+    },
+    {
+        "Barangay":"Guinpoliran",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Guinpoliran, Balangkayan"
+    },
+    {
+        "Barangay":"Julag",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Julag, Balangkayan"
+    },
+    {
+        "Barangay":"Magsaysay",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Magsaysay, Balangkayan"
+    },
+    {
+        "Barangay":"Maramag",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Maramag, Balangkayan"
+    },
+    {
+        "Barangay":"Poblacion I",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Poblacion I, Balangkayan"
+    },
+    {
+        "Barangay":"Poblacion II",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Poblacion II, Balangkayan"
+    },
+    {
+        "Barangay":"Poblacion III",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Poblacion III, Balangkayan"
+    },
+    {
+        "Barangay":"Poblacion IV",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Poblacion IV, Balangkayan"
+    },
+    {
+        "Barangay":"Poblacion V",
+        "Municipality":"Balangkayan",
+        "Full_Name":"Poblacion V, Balangkayan"
+    },
+    {
+        "Barangay":"Alang-alang",
+        "Municipality":"Borongan",
+        "Full_Name":"Alang-alang, Borongan"
+    },
+    {
+        "Barangay":"Amantacop",
+        "Municipality":"Borongan",
+        "Full_Name":"Amantacop, Borongan"
+    },
+    {
+        "Barangay":"Ando",
+        "Municipality":"Borongan",
+        "Full_Name":"Ando, Borongan"
+    },
+    {
+        "Barangay":"Balacdas",
+        "Municipality":"Borongan",
+        "Full_Name":"Balacdas, Borongan"
+    },
+    {
+        "Barangay":"Balud",
+        "Municipality":"Borongan",
+        "Full_Name":"Balud, Borongan"
+    },
+    {
+        "Barangay":"Banuyo",
+        "Municipality":"Borongan",
+        "Full_Name":"Banuyo, Borongan"
+    },
+    {
+        "Barangay":"Baras",
+        "Municipality":"Borongan",
+        "Full_Name":"Baras, Borongan"
+    },
+    {
+        "Barangay":"Bato",
+        "Municipality":"Borongan",
+        "Full_Name":"Bato, Borongan"
+    },
+    {
+        "Barangay":"Bayobay",
+        "Municipality":"Borongan",
+        "Full_Name":"Bayobay, Borongan"
+    },
+    {
+        "Barangay":"Benowangan",
+        "Municipality":"Borongan",
+        "Full_Name":"Benowangan, Borongan"
+    },
+    {
+        "Barangay":"Bugas",
+        "Municipality":"Borongan",
+        "Full_Name":"Bugas, Borongan"
+    },
+    {
+        "Barangay":"Cabalagnan",
+        "Municipality":"Borongan",
+        "Full_Name":"Cabalagnan, Borongan"
+    },
+    {
+        "Barangay":"Cabong",
+        "Municipality":"Borongan",
+        "Full_Name":"Cabong, Borongan"
+    },
+    {
+        "Barangay":"Cagbonga",
+        "Municipality":"Borongan",
+        "Full_Name":"Cagbonga, Borongan"
+    },
+    {
+        "Barangay":"Calico-an",
+        "Municipality":"Borongan",
+        "Full_Name":"Calico-an, Borongan"
+    },
+    {
+        "Barangay":"Calingatngan",
+        "Municipality":"Borongan",
+        "Full_Name":"Calingatngan, Borongan"
+    },
+    {
+        "Barangay":"Camada",
+        "Municipality":"Borongan",
+        "Full_Name":"Camada, Borongan"
+    },
+    {
+        "Barangay":"Campesao",
+        "Municipality":"Borongan",
+        "Full_Name":"Campesao, Borongan"
+    },
+    {
+        "Barangay":"Can-abong",
+        "Municipality":"Borongan",
+        "Full_Name":"Can-abong, Borongan"
+    },
+    {
+        "Barangay":"Can-aga",
+        "Municipality":"Borongan",
+        "Full_Name":"Can-aga, Borongan"
+    },
+    {
+        "Barangay":"Canjaway",
+        "Municipality":"Borongan",
+        "Full_Name":"Canjaway, Borongan"
+    },
+    {
+        "Barangay":"Canlaray",
+        "Municipality":"Borongan",
+        "Full_Name":"Canlaray, Borongan"
+    },
+    {
+        "Barangay":"Canyopay",
+        "Municipality":"Borongan",
+        "Full_Name":"Canyopay, Borongan"
+    },
+    {
+        "Barangay":"Divinubo",
+        "Municipality":"Borongan",
+        "Full_Name":"Divinubo, Borongan"
+    },
+    {
+        "Barangay":"Hebacong",
+        "Municipality":"Borongan",
+        "Full_Name":"Hebacong, Borongan"
+    },
+    {
+        "Barangay":"Hindang",
+        "Municipality":"Borongan",
+        "Full_Name":"Hindang, Borongan"
+    },
+    {
+        "Barangay":"Lalawigan",
+        "Municipality":"Borongan",
+        "Full_Name":"Lalawigan, Borongan"
+    },
+    {
+        "Barangay":"Libuton",
+        "Municipality":"Borongan",
+        "Full_Name":"Libuton, Borongan"
+    },
+    {
+        "Barangay":"Locso-on",
+        "Municipality":"Borongan",
+        "Full_Name":"Locso-on, Borongan"
+    },
+    {
+        "Barangay":"Maybacong",
+        "Municipality":"Borongan",
+        "Full_Name":"Maybacong, Borongan"
+    },
+    {
+        "Barangay":"Maypangdan",
+        "Municipality":"Borongan",
+        "Full_Name":"Maypangdan, Borongan"
+    },
+    {
+        "Barangay":"Pepelitan",
+        "Municipality":"Borongan",
+        "Full_Name":"Pepelitan, Borongan"
+    },
+    {
+        "Barangay":"Pinanag-an",
+        "Municipality":"Borongan",
+        "Full_Name":"Pinanag-an, Borongan"
+    },
+    {
+        "Barangay":"Punta Maria",
+        "Municipality":"Borongan",
+        "Full_Name":"Punta Maria, Borongan"
+    },
+    {
+        "Barangay":"Purok A",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok A, Borongan"
+    },
+    {
+        "Barangay":"Purok B",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok B, Borongan"
+    },
+    {
+        "Barangay":"Purok C",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok C, Borongan"
+    },
+    {
+        "Barangay":"Purok D1",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok D1, Borongan"
+    },
+    {
+        "Barangay":"Purok D2",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok D2, Borongan"
+    },
+    {
+        "Barangay":"Purok E",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok E, Borongan"
+    },
+    {
+        "Barangay":"Purok F",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok F, Borongan"
+    },
+    {
+        "Barangay":"Purok G",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok G, Borongan"
+    },
+    {
+        "Barangay":"Purok H",
+        "Municipality":"Borongan",
+        "Full_Name":"Purok H, Borongan"
+    },
+    {
+        "Barangay":"Sabang North",
+        "Municipality":"Borongan",
+        "Full_Name":"Sabang North, Borongan"
+    },
+    {
+        "Barangay":"Sabang South",
+        "Municipality":"Borongan",
+        "Full_Name":"Sabang South, Borongan"
+    },
+    {
+        "Barangay":"San Andres",
+        "Municipality":"Borongan",
+        "Full_Name":"San Andres, Borongan"
+    },
+    {
+        "Barangay":"San Gabriel",
+        "Municipality":"Borongan",
+        "Full_Name":"San Gabriel, Borongan"
+    },
+    {
+        "Barangay":"San Gregorio",
+        "Municipality":"Borongan",
+        "Full_Name":"San Gregorio, Borongan"
+    },
+    {
+        "Barangay":"San Jose",
+        "Municipality":"Borongan",
+        "Full_Name":"San Jose, Borongan"
+    },
+    {
+        "Barangay":"San Mateo",
+        "Municipality":"Borongan",
+        "Full_Name":"San Mateo, Borongan"
+    },
+    {
+        "Barangay":"San Pablo",
+        "Municipality":"Borongan",
+        "Full_Name":"San Pablo, Borongan"
+    },
+    {
+        "Barangay":"San Saturnino",
+        "Municipality":"Borongan",
+        "Full_Name":"San Saturnino, Borongan"
+    },
+    {
+        "Barangay":"Santa Fe",
+        "Municipality":"Borongan",
+        "Full_Name":"Santa Fe, Borongan"
+    },
+    {
+        "Barangay":"Siha",
+        "Municipality":"Borongan",
+        "Full_Name":"Siha, Borongan"
+    },
+    {
+        "Barangay":"Sohutan",
+        "Municipality":"Borongan",
+        "Full_Name":"Sohutan, Borongan"
+    },
+    {
+        "Barangay":"Songco",
+        "Municipality":"Borongan",
+        "Full_Name":"Songco, Borongan"
+    },
+    {
+        "Barangay":"Suribao",
+        "Municipality":"Borongan",
+        "Full_Name":"Suribao, Borongan"
+    },
+    {
+        "Barangay":"Surok",
+        "Municipality":"Borongan",
+        "Full_Name":"Surok, Borongan"
+    },
+    {
+        "Barangay":"Taboc",
+        "Municipality":"Borongan",
+        "Full_Name":"Taboc, Borongan"
+    },
+    {
+        "Barangay":"Tabunan",
+        "Municipality":"Borongan",
+        "Full_Name":"Tabunan, Borongan"
+    },
+    {
+        "Barangay":"Tamoso",
+        "Municipality":"Borongan",
+        "Full_Name":"Tamoso, Borongan"
+    },
+    {
+        "Barangay":"Balagon",
+        "Municipality":"Can-avid",
+        "Full_Name":"Balagon, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 1 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 1 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 10 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 10 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 2 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 2 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 3 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 3 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 4 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 4 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 5 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 5 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 6 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 6 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 7 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 7 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 8 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 8 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Barangay 9 Poblacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Barangay 9 Poblacion, Can-avid"
+    },
+    {
+        "Barangay":"Baruk",
+        "Municipality":"Can-avid",
+        "Full_Name":"Baruk, Can-avid"
+    },
+    {
+        "Barangay":"Boco",
+        "Municipality":"Can-avid",
+        "Full_Name":"Boco, Can-avid"
+    },
+    {
+        "Barangay":"Caghalong",
+        "Municipality":"Can-avid",
+        "Full_Name":"Caghalong, Can-avid"
+    },
+    {
+        "Barangay":"Camantang",
+        "Municipality":"Can-avid",
+        "Full_Name":"Camantang, Can-avid"
+    },
+    {
+        "Barangay":"Can-ilay",
+        "Municipality":"Can-avid",
+        "Full_Name":"Can-ilay, Can-avid"
+    },
+    {
+        "Barangay":"Cansangaya",
+        "Municipality":"Can-avid",
+        "Full_Name":"Cansangaya, Can-avid"
+    },
+    {
+        "Barangay":"Canteros",
+        "Municipality":"Can-avid",
+        "Full_Name":"Canteros, Can-avid"
+    },
+    {
+        "Barangay":"Carolina",
+        "Municipality":"Can-avid",
+        "Full_Name":"Carolina, Can-avid"
+    },
+    {
+        "Barangay":"Guibuangan",
+        "Municipality":"Can-avid",
+        "Full_Name":"Guibuangan, Can-avid"
+    },
+    {
+        "Barangay":"Jepaco",
+        "Municipality":"Can-avid",
+        "Full_Name":"Jepaco, Can-avid"
+    },
+    {
+        "Barangay":"Mabuhay",
+        "Municipality":"Can-avid",
+        "Full_Name":"Mabuhay, Can-avid"
+    },
+    {
+        "Barangay":"Malogo",
+        "Municipality":"Can-avid",
+        "Full_Name":"Malogo, Can-avid"
+    },
+    {
+        "Barangay":"Obong",
+        "Municipality":"Can-avid",
+        "Full_Name":"Obong, Can-avid"
+    },
+    {
+        "Barangay":"Pandol",
+        "Municipality":"Can-avid",
+        "Full_Name":"Pandol, Can-avid"
+    },
+    {
+        "Barangay":"Rawis",
+        "Municipality":"Can-avid",
+        "Full_Name":"Rawis, Can-avid"
+    },
+    {
+        "Barangay":"Salvacion",
+        "Municipality":"Can-avid",
+        "Full_Name":"Salvacion, Can-avid"
+    },
+    {
+        "Barangay":"Solong",
+        "Municipality":"Can-avid",
+        "Full_Name":"Solong, Can-avid"
+    },
+    {
+        "Barangay":"Aroganga",
+        "Municipality":"Dolores",
+        "Full_Name":"Aroganga, Dolores"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 1, Dolores"
+    },
+    {
+        "Barangay":"Barangay 10",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 10, Dolores"
+    },
+    {
+        "Barangay":"Barangay 11",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 11, Dolores"
+    },
+    {
+        "Barangay":"Barangay 12",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 12, Dolores"
+    },
+    {
+        "Barangay":"Barangay 13",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 13, Dolores"
+    },
+    {
+        "Barangay":"Barangay 14",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 14, Dolores"
+    },
+    {
+        "Barangay":"Barangay 15",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 15, Dolores"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 2, Dolores"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 3, Dolores"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 4, Dolores"
+    },
+    {
+        "Barangay":"Barangay 5",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 5, Dolores"
+    },
+    {
+        "Barangay":"Barangay 6",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 6, Dolores"
+    },
+    {
+        "Barangay":"Barangay 7",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 7, Dolores"
+    },
+    {
+        "Barangay":"Barangay 8",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 8, Dolores"
+    },
+    {
+        "Barangay":"Barangay 9",
+        "Municipality":"Dolores",
+        "Full_Name":"Barangay 9, Dolores"
+    },
+    {
+        "Barangay":"Bonghon",
+        "Municipality":"Dolores",
+        "Full_Name":"Bonghon, Dolores"
+    },
+    {
+        "Barangay":"Buenavista",
+        "Municipality":"Dolores",
+        "Full_Name":"Buenavista, Dolores"
+    },
+    {
+        "Barangay":"Cabago-an",
+        "Municipality":"Dolores",
+        "Full_Name":"Cabago-an, Dolores"
+    },
+    {
+        "Barangay":"Caglao-an",
+        "Municipality":"Dolores",
+        "Full_Name":"Caglao-an, Dolores"
+    },
+    {
+        "Barangay":"Cagtabon",
+        "Municipality":"Dolores",
+        "Full_Name":"Cagtabon, Dolores"
+    },
+    {
+        "Barangay":"Dampigan",
+        "Municipality":"Dolores",
+        "Full_Name":"Dampigan, Dolores"
+    },
+    {
+        "Barangay":"Dapdap",
+        "Municipality":"Dolores",
+        "Full_Name":"Dapdap, Dolores"
+    },
+    {
+        "Barangay":"Del Pilar",
+        "Municipality":"Dolores",
+        "Full_Name":"Del Pilar, Dolores"
+    },
+    {
+        "Barangay":"Denigpian",
+        "Municipality":"Dolores",
+        "Full_Name":"Denigpian, Dolores"
+    },
+    {
+        "Barangay":"Gap-ang",
+        "Municipality":"Dolores",
+        "Full_Name":"Gap-ang, Dolores"
+    },
+    {
+        "Barangay":"Hilabaan",
+        "Municipality":"Dolores",
+        "Full_Name":"Hilabaan, Dolores"
+    },
+    {
+        "Barangay":"Hinolaso",
+        "Municipality":"Dolores",
+        "Full_Name":"Hinolaso, Dolores"
+    },
+    {
+        "Barangay":"Japitan",
+        "Municipality":"Dolores",
+        "Full_Name":"Japitan, Dolores"
+    },
+    {
+        "Barangay":"Jicontol",
+        "Municipality":"Dolores",
+        "Full_Name":"Jicontol, Dolores"
+    },
+    {
+        "Barangay":"Libertad",
+        "Municipality":"Dolores",
+        "Full_Name":"Libertad, Dolores"
+    },
+    {
+        "Barangay":"Magongbong",
+        "Municipality":"Dolores",
+        "Full_Name":"Magongbong, Dolores"
+    },
+    {
+        "Barangay":"Magsaysay",
+        "Municipality":"Dolores",
+        "Full_Name":"Magsaysay, Dolores"
+    },
+    {
+        "Barangay":"Malaintos",
+        "Municipality":"Dolores",
+        "Full_Name":"Malaintos, Dolores"
+    },
+    {
+        "Barangay":"Malobago",
+        "Municipality":"Dolores",
+        "Full_Name":"Malobago, Dolores"
+    },
+    {
+        "Barangay":"Osmeña",
+        "Municipality":"Dolores",
+        "Full_Name":"Osmeña, Dolores"
+    },
+    {
+        "Barangay":"Rizal",
+        "Municipality":"Dolores",
+        "Full_Name":"Rizal, Dolores"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Dolores",
+        "Full_Name":"San Isidro, Dolores"
+    },
+    {
+        "Barangay":"San Pascual",
+        "Municipality":"Dolores",
+        "Full_Name":"San Pascual, Dolores"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Dolores",
+        "Full_Name":"San Roque, Dolores"
+    },
+    {
+        "Barangay":"San Vicente",
+        "Municipality":"Dolores",
+        "Full_Name":"San Vicente, Dolores"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"Dolores",
+        "Full_Name":"Santa Cruz, Dolores"
+    },
+    {
+        "Barangay":"Santo Niño",
+        "Municipality":"Dolores",
+        "Full_Name":"Santo Niño, Dolores"
+    },
+    {
+        "Barangay":"Tanauan",
+        "Municipality":"Dolores",
+        "Full_Name":"Tanauan, Dolores"
+    },
+    {
+        "Barangay":"Tikling",
+        "Municipality":"Dolores",
+        "Full_Name":"Tikling, Dolores"
+    },
+    {
+        "Barangay":"Villahermosa",
+        "Municipality":"Dolores",
+        "Full_Name":"Villahermosa, Dolores"
+    },
+    {
+        "Barangay":"Aguinaldo",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Aguinaldo, General MacArthur"
+    },
+    {
+        "Barangay":"Alang-alang",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Alang-alang, General MacArthur"
+    },
+    {
+        "Barangay":"Binalay",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Binalay, General MacArthur"
+    },
+    {
+        "Barangay":"Calutan",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Calutan, General MacArthur"
+    },
+    {
+        "Barangay":"Camcuevas",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Camcuevas, General MacArthur"
+    },
+    {
+        "Barangay":"Domrog",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Domrog, General MacArthur"
+    },
+    {
+        "Barangay":"Laurel",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Laurel, General MacArthur"
+    },
+    {
+        "Barangay":"Limbujan",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Limbujan, General MacArthur"
+    },
+    {
+        "Barangay":"Macapagal",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Macapagal, General MacArthur"
+    },
+    {
+        "Barangay":"Magsaysay",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Magsaysay, General MacArthur"
+    },
+    {
+        "Barangay":"Osmeña",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Osmeña, General MacArthur"
+    },
+    {
+        "Barangay":"Pingan",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Pingan, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 1",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 1, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 2",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 2, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 3",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 3, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 4",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 4, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 5",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 5, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 6",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 6, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 7",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 7, General MacArthur"
+    },
+    {
+        "Barangay":"Poblacion Barangay 8",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Poblacion Barangay 8, General MacArthur"
+    },
+    {
+        "Barangay":"Quezon",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Quezon, General MacArthur"
+    },
+    {
+        "Barangay":"Quirino",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Quirino, General MacArthur"
+    },
+    {
+        "Barangay":"Roxas",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Roxas, General MacArthur"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"General MacArthur",
+        "Full_Name":"San Isidro, General MacArthur"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"General MacArthur",
+        "Full_Name":"San Roque, General MacArthur"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Santa Cruz, General MacArthur"
+    },
+    {
+        "Barangay":"Santa Fe",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Santa Fe, General MacArthur"
+    },
+    {
+        "Barangay":"Tandang Sora",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Tandang Sora, General MacArthur"
+    },
+    {
+        "Barangay":"Tugop",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Tugop, General MacArthur"
+    },
+    {
+        "Barangay":"Vigan",
+        "Municipality":"General MacArthur",
+        "Full_Name":"Vigan, General MacArthur"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 1, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 2, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 3, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 4, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 5",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 5, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 6",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 6, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 7",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 7, Giporlos"
+    },
+    {
+        "Barangay":"Barangay 8",
+        "Municipality":"Giporlos",
+        "Full_Name":"Barangay 8, Giporlos"
+    },
+    {
+        "Barangay":"Biga",
+        "Municipality":"Giporlos",
+        "Full_Name":"Biga, Giporlos"
+    },
+    {
+        "Barangay":"Coticot",
+        "Municipality":"Giporlos",
+        "Full_Name":"Coticot, Giporlos"
+    },
+    {
+        "Barangay":"Gigoso",
+        "Municipality":"Giporlos",
+        "Full_Name":"Gigoso, Giporlos"
+    },
+    {
+        "Barangay":"Huknan",
+        "Municipality":"Giporlos",
+        "Full_Name":"Huknan, Giporlos"
+    },
+    {
+        "Barangay":"Parina",
+        "Municipality":"Giporlos",
+        "Full_Name":"Parina, Giporlos"
+    },
+    {
+        "Barangay":"Paya",
+        "Municipality":"Giporlos",
+        "Full_Name":"Paya, Giporlos"
+    },
+    {
+        "Barangay":"President Roxas",
+        "Municipality":"Giporlos",
+        "Full_Name":"President Roxas, Giporlos"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Giporlos",
+        "Full_Name":"San Isidro, Giporlos"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"Giporlos",
+        "Full_Name":"San Miguel, Giporlos"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"Giporlos",
+        "Full_Name":"Santa Cruz, Giporlos"
+    },
+    {
+        "Barangay":"Alingarog",
+        "Municipality":"Guiuan",
+        "Full_Name":"Alingarog, Guiuan"
+    },
+    {
+        "Barangay":"Bagua",
+        "Municipality":"Guiuan",
+        "Full_Name":"Bagua, Guiuan"
+    },
+    {
+        "Barangay":"Banaag",
+        "Municipality":"Guiuan",
+        "Full_Name":"Banaag, Guiuan"
+    },
+    {
+        "Barangay":"Banahao",
+        "Municipality":"Guiuan",
+        "Full_Name":"Banahao, Guiuan"
+    },
+    {
+        "Barangay":"Baras",
+        "Municipality":"Guiuan",
+        "Full_Name":"Baras, Guiuan"
+    },
+    {
+        "Barangay":"Barbo",
+        "Municipality":"Guiuan",
+        "Full_Name":"Barbo, Guiuan"
+    },
+    {
+        "Barangay":"Bitaugan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Bitaugan, Guiuan"
+    },
+    {
+        "Barangay":"Bucao",
+        "Municipality":"Guiuan",
+        "Full_Name":"Bucao, Guiuan"
+    },
+    {
+        "Barangay":"Buenavista",
+        "Municipality":"Guiuan",
+        "Full_Name":"Buenavista, Guiuan"
+    },
+    {
+        "Barangay":"Bungtod",
+        "Municipality":"Guiuan",
+        "Full_Name":"Bungtod, Guiuan"
+    },
+    {
+        "Barangay":"Cagdara-o",
+        "Municipality":"Guiuan",
+        "Full_Name":"Cagdara-o, Guiuan"
+    },
+    {
+        "Barangay":"Cagusu-an",
+        "Municipality":"Guiuan",
+        "Full_Name":"Cagusu-an, Guiuan"
+    },
+    {
+        "Barangay":"Camparang",
+        "Municipality":"Guiuan",
+        "Full_Name":"Camparang, Guiuan"
+    },
+    {
+        "Barangay":"Campoyong",
+        "Municipality":"Guiuan",
+        "Full_Name":"Campoyong, Guiuan"
+    },
+    {
+        "Barangay":"Canawayon",
+        "Municipality":"Guiuan",
+        "Full_Name":"Canawayon, Guiuan"
+    },
+    {
+        "Barangay":"Cantahay",
+        "Municipality":"Guiuan",
+        "Full_Name":"Cantahay, Guiuan"
+    },
+    {
+        "Barangay":"Casuguran",
+        "Municipality":"Guiuan",
+        "Full_Name":"Casuguran, Guiuan"
+    },
+    {
+        "Barangay":"Cogon",
+        "Municipality":"Guiuan",
+        "Full_Name":"Cogon, Guiuan"
+    },
+    {
+        "Barangay":"Culasi",
+        "Municipality":"Guiuan",
+        "Full_Name":"Culasi, Guiuan"
+    },
+    {
+        "Barangay":"Dalaragan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Dalaragan, Guiuan"
+    },
+    {
+        "Barangay":"Gahoy",
+        "Municipality":"Guiuan",
+        "Full_Name":"Gahoy, Guiuan"
+    },
+    {
+        "Barangay":"Habag",
+        "Municipality":"Guiuan",
+        "Full_Name":"Habag, Guiuan"
+    },
+    {
+        "Barangay":"Hagna",
+        "Municipality":"Guiuan",
+        "Full_Name":"Hagna, Guiuan"
+    },
+    {
+        "Barangay":"Hamorawon",
+        "Municipality":"Guiuan",
+        "Full_Name":"Hamorawon, Guiuan"
+    },
+    {
+        "Barangay":"Hollywood",
+        "Municipality":"Guiuan",
+        "Full_Name":"Hollywood, Guiuan"
+    },
+    {
+        "Barangay":"Inapulangan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Inapulangan, Guiuan"
+    },
+    {
+        "Barangay":"Lupok",
+        "Municipality":"Guiuan",
+        "Full_Name":"Lupok, Guiuan"
+    },
+    {
+        "Barangay":"Mayana",
+        "Municipality":"Guiuan",
+        "Full_Name":"Mayana, Guiuan"
+    },
+    {
+        "Barangay":"Ngolos",
+        "Municipality":"Guiuan",
+        "Full_Name":"Ngolos, Guiuan"
+    },
+    {
+        "Barangay":"Pagbabangnan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Pagbabangnan, Guiuan"
+    },
+    {
+        "Barangay":"Pagnamitan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Pagnamitan, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 1",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 1, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 10",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 10, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 11",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 11, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 12",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 12, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 2",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 2, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 3",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 3, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 4",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 4, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 4-A",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 4-A, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 5",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 5, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 6",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 6, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 7",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 7, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 8",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 8, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 9",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 9, Guiuan"
+    },
+    {
+        "Barangay":"Poblacion Ward 9-A",
+        "Municipality":"Guiuan",
+        "Full_Name":"Poblacion Ward 9-A, Guiuan"
+    },
+    {
+        "Barangay":"Salug",
+        "Municipality":"Guiuan",
+        "Full_Name":"Salug, Guiuan"
+    },
+    {
+        "Barangay":"San Antonio",
+        "Municipality":"Guiuan",
+        "Full_Name":"San Antonio, Guiuan"
+    },
+    {
+        "Barangay":"San Jose",
+        "Municipality":"Guiuan",
+        "Full_Name":"San Jose, Guiuan"
+    },
+    {
+        "Barangay":"San Juan",
+        "Municipality":"Guiuan",
+        "Full_Name":"San Juan, Guiuan"
+    },
+    {
+        "Barangay":"San Pedro",
+        "Municipality":"Guiuan",
+        "Full_Name":"San Pedro, Guiuan"
+    },
+    {
+        "Barangay":"Santo Niño",
+        "Municipality":"Guiuan",
+        "Full_Name":"Santo Niño, Guiuan"
+    },
+    {
+        "Barangay":"Sapao",
+        "Municipality":"Guiuan",
+        "Full_Name":"Sapao, Guiuan"
+    },
+    {
+        "Barangay":"Sulangan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Sulangan, Guiuan"
+    },
+    {
+        "Barangay":"Suluan",
+        "Municipality":"Guiuan",
+        "Full_Name":"Suluan, Guiuan"
+    },
+    {
+        "Barangay":"Surok",
+        "Municipality":"Guiuan",
+        "Full_Name":"Surok, Guiuan"
+    },
+    {
+        "Barangay":"Tagporo",
+        "Municipality":"Guiuan",
+        "Full_Name":"Tagporo, Guiuan"
+    },
+    {
+        "Barangay":"Taytay",
+        "Municipality":"Guiuan",
+        "Full_Name":"Taytay, Guiuan"
+    },
+    {
+        "Barangay":"Timala",
+        "Municipality":"Guiuan",
+        "Full_Name":"Timala, Guiuan"
+    },
+    {
+        "Barangay":"Trinidad",
+        "Municipality":"Guiuan",
+        "Full_Name":"Trinidad, Guiuan"
+    },
+    {
+        "Barangay":"Victory Island",
+        "Municipality":"Guiuan",
+        "Full_Name":"Victory Island, Guiuan"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Hernani",
+        "Full_Name":"Barangay 1, Hernani"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Hernani",
+        "Full_Name":"Barangay 2, Hernani"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Hernani",
+        "Full_Name":"Barangay 3, Hernani"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Hernani",
+        "Full_Name":"Barangay 4, Hernani"
+    },
+    {
+        "Barangay":"Batang",
+        "Municipality":"Hernani",
+        "Full_Name":"Batang, Hernani"
+    },
+    {
+        "Barangay":"Cacatmonan",
+        "Municipality":"Hernani",
+        "Full_Name":"Cacatmonan, Hernani"
+    },
+    {
+        "Barangay":"Canciledes",
+        "Municipality":"Hernani",
+        "Full_Name":"Canciledes, Hernani"
+    },
+    {
+        "Barangay":"Carmen",
+        "Municipality":"Hernani",
+        "Full_Name":"Carmen, Hernani"
+    },
+    {
+        "Barangay":"Garawon",
+        "Municipality":"Hernani",
+        "Full_Name":"Garawon, Hernani"
+    },
+    {
+        "Barangay":"Nagaja",
+        "Municipality":"Hernani",
+        "Full_Name":"Nagaja, Hernani"
+    },
+    {
+        "Barangay":"Padang",
+        "Municipality":"Hernani",
+        "Full_Name":"Padang, Hernani"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Hernani",
+        "Full_Name":"San Isidro, Hernani"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"Hernani",
+        "Full_Name":"San Miguel, Hernani"
+    },
+    {
+        "Barangay":"Agsaman",
+        "Municipality":"Jipapad",
+        "Full_Name":"Agsaman, Jipapad"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Jipapad",
+        "Full_Name":"Barangay 1, Jipapad"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Jipapad",
+        "Full_Name":"Barangay 2, Jipapad"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Jipapad",
+        "Full_Name":"Barangay 3, Jipapad"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Jipapad",
+        "Full_Name":"Barangay 4, Jipapad"
+    },
+    {
+        "Barangay":"Cagmanaba",
+        "Municipality":"Jipapad",
+        "Full_Name":"Cagmanaba, Jipapad"
+    },
+    {
+        "Barangay":"Dorillo",
+        "Municipality":"Jipapad",
+        "Full_Name":"Dorillo, Jipapad"
+    },
+    {
+        "Barangay":"Jewaran",
+        "Municipality":"Jipapad",
+        "Full_Name":"Jewaran, Jipapad"
+    },
+    {
+        "Barangay":"Mabuhay",
+        "Municipality":"Jipapad",
+        "Full_Name":"Mabuhay, Jipapad"
+    },
+    {
+        "Barangay":"Magsaysay",
+        "Municipality":"Jipapad",
+        "Full_Name":"Magsaysay, Jipapad"
+    },
+    {
+        "Barangay":"Recare",
+        "Municipality":"Jipapad",
+        "Full_Name":"Recare, Jipapad"
+    },
+    {
+        "Barangay":"Roxas",
+        "Municipality":"Jipapad",
+        "Full_Name":"Roxas, Jipapad"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Jipapad",
+        "Full_Name":"San Roque, Jipapad"
+    },
+    {
+        "Barangay":"Barangay Poblacion 1",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 1, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 10",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 10, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 2",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 2, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 3",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 3, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 4",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 4, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 5",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 5, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 6",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 6, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 7",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 7, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 8",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 8, Lawaan"
+    },
+    {
+        "Barangay":"Barangay Poblacion 9",
+        "Municipality":"Lawaan",
+        "Full_Name":"Barangay Poblacion 9, Lawaan"
+    },
+    {
+        "Barangay":"Betaog",
+        "Municipality":"Lawaan",
+        "Full_Name":"Betaog, Lawaan"
+    },
+    {
+        "Barangay":"Bolusao",
+        "Municipality":"Lawaan",
+        "Full_Name":"Bolusao, Lawaan"
+    },
+    {
+        "Barangay":"Guinob-an",
+        "Municipality":"Lawaan",
+        "Full_Name":"Guinob-an, Lawaan"
+    },
+    {
+        "Barangay":"Maslog",
+        "Municipality":"Lawaan",
+        "Full_Name":"Maslog, Lawaan"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Lawaan",
+        "Full_Name":"San Isidro, Lawaan"
+    },
+    {
+        "Barangay":"Taguite",
+        "Municipality":"Lawaan",
+        "Full_Name":"Taguite, Lawaan"
+    },
+    {
+        "Barangay":"Antipolo",
+        "Municipality":"Llorente",
+        "Full_Name":"Antipolo, Llorente"
+    },
+    {
+        "Barangay":"Babanikhon",
+        "Municipality":"Llorente",
+        "Full_Name":"Babanikhon, Llorente"
+    },
+    {
+        "Barangay":"Bacayawan",
+        "Municipality":"Llorente",
+        "Full_Name":"Bacayawan, Llorente"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 1, Llorente"
+    },
+    {
+        "Barangay":"Barangay 10",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 10, Llorente"
+    },
+    {
+        "Barangay":"Barangay 11",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 11, Llorente"
+    },
+    {
+        "Barangay":"Barangay 12",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 12, Llorente"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 2, Llorente"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 3, Llorente"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 4, Llorente"
+    },
+    {
+        "Barangay":"Barangay 5",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 5, Llorente"
+    },
+    {
+        "Barangay":"Barangay 6",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 6, Llorente"
+    },
+    {
+        "Barangay":"Barangay 7",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 7, Llorente"
+    },
+    {
+        "Barangay":"Barangay 8",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 8, Llorente"
+    },
+    {
+        "Barangay":"Barangay 9",
+        "Municipality":"Llorente",
+        "Full_Name":"Barangay 9, Llorente"
+    },
+    {
+        "Barangay":"Barobo",
+        "Municipality":"Llorente",
+        "Full_Name":"Barobo, Llorente"
+    },
+    {
+        "Barangay":"Burak",
+        "Municipality":"Llorente",
+        "Full_Name":"Burak, Llorente"
+    },
+    {
+        "Barangay":"Can-ato",
+        "Municipality":"Llorente",
+        "Full_Name":"Can-ato, Llorente"
+    },
+    {
+        "Barangay":"Candoros",
+        "Municipality":"Llorente",
+        "Full_Name":"Candoros, Llorente"
+    },
+    {
+        "Barangay":"Canliwag",
+        "Municipality":"Llorente",
+        "Full_Name":"Canliwag, Llorente"
+    },
+    {
+        "Barangay":"Cantomco",
+        "Municipality":"Llorente",
+        "Full_Name":"Cantomco, Llorente"
+    },
+    {
+        "Barangay":"Hugpa",
+        "Municipality":"Llorente",
+        "Full_Name":"Hugpa, Llorente"
+    },
+    {
+        "Barangay":"Maca-anga",
+        "Municipality":"Llorente",
+        "Full_Name":"Maca-anga, Llorente"
+    },
+    {
+        "Barangay":"Magtino",
+        "Municipality":"Llorente",
+        "Full_Name":"Magtino, Llorente"
+    },
+    {
+        "Barangay":"Mina-anod",
+        "Municipality":"Llorente",
+        "Full_Name":"Mina-anod, Llorente"
+    },
+    {
+        "Barangay":"Naubay",
+        "Municipality":"Llorente",
+        "Full_Name":"Naubay, Llorente"
+    },
+    {
+        "Barangay":"Piliw",
+        "Municipality":"Llorente",
+        "Full_Name":"Piliw, Llorente"
+    },
+    {
+        "Barangay":"San Jose",
+        "Municipality":"Llorente",
+        "Full_Name":"San Jose, Llorente"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"Llorente",
+        "Full_Name":"San Miguel, Llorente"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Llorente",
+        "Full_Name":"San Roque, Llorente"
+    },
+    {
+        "Barangay":"So-ong",
+        "Municipality":"Llorente",
+        "Full_Name":"So-ong, Llorente"
+    },
+    {
+        "Barangay":"Tabok",
+        "Municipality":"Llorente",
+        "Full_Name":"Tabok, Llorente"
+    },
+    {
+        "Barangay":"Waso",
+        "Municipality":"Llorente",
+        "Full_Name":"Waso, Llorente"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Maslog",
+        "Full_Name":"Barangay 1, Maslog"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Maslog",
+        "Full_Name":"Barangay 2, Maslog"
+    },
+    {
+        "Barangay":"Bulawan",
+        "Municipality":"Maslog",
+        "Full_Name":"Bulawan, Maslog"
+    },
+    {
+        "Barangay":"Carayacay",
+        "Municipality":"Maslog",
+        "Full_Name":"Carayacay, Maslog"
+    },
+    {
+        "Barangay":"Libertad",
+        "Municipality":"Maslog",
+        "Full_Name":"Libertad, Maslog"
+    },
+    {
+        "Barangay":"Malobago",
+        "Municipality":"Maslog",
+        "Full_Name":"Malobago, Maslog"
+    },
+    {
+        "Barangay":"Maputi",
+        "Municipality":"Maslog",
+        "Full_Name":"Maputi, Maslog"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"Maslog",
+        "Full_Name":"San Miguel, Maslog"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Maslog",
+        "Full_Name":"San Roque, Maslog"
+    },
+    {
+        "Barangay":"Tangbo",
+        "Municipality":"Maslog",
+        "Full_Name":"Tangbo, Maslog"
+    },
+    {
+        "Barangay":"Taytay",
+        "Municipality":"Maslog",
+        "Full_Name":"Taytay, Maslog"
+    },
+    {
+        "Barangay":"Tugas",
+        "Municipality":"Maslog",
+        "Full_Name":"Tugas, Maslog"
+    },
+    {
+        "Barangay":"Barangay Poblacion 1",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 1, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 2",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 2, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 3",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 3, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 4",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 4, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 5",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 5, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 6",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 6, Maydolong"
+    },
+    {
+        "Barangay":"Barangay Poblacion 7",
+        "Municipality":"Maydolong",
+        "Full_Name":"Barangay Poblacion 7, Maydolong"
+    },
+    {
+        "Barangay":"Camada",
+        "Municipality":"Maydolong",
+        "Full_Name":"Camada, Maydolong"
+    },
+    {
+        "Barangay":"Campakerit",
+        "Municipality":"Maydolong",
+        "Full_Name":"Campakerit, Maydolong"
+    },
+    {
+        "Barangay":"Canloterio",
+        "Municipality":"Maydolong",
+        "Full_Name":"Canloterio, Maydolong"
+    },
+    {
+        "Barangay":"Del Pilar",
+        "Municipality":"Maydolong",
+        "Full_Name":"Del Pilar, Maydolong"
+    },
+    {
+        "Barangay":"Guindalitan",
+        "Municipality":"Maydolong",
+        "Full_Name":"Guindalitan, Maydolong"
+    },
+    {
+        "Barangay":"Lapgap",
+        "Municipality":"Maydolong",
+        "Full_Name":"Lapgap, Maydolong"
+    },
+    {
+        "Barangay":"Malobago",
+        "Municipality":"Maydolong",
+        "Full_Name":"Malobago, Maydolong"
+    },
+    {
+        "Barangay":"Maybocog",
+        "Municipality":"Maydolong",
+        "Full_Name":"Maybocog, Maydolong"
+    },
+    {
+        "Barangay":"Maytigbao",
+        "Municipality":"Maydolong",
+        "Full_Name":"Maytigbao, Maydolong"
+    },
+    {
+        "Barangay":"Omawas",
+        "Municipality":"Maydolong",
+        "Full_Name":"Omawas, Maydolong"
+    },
+    {
+        "Barangay":"Patag",
+        "Municipality":"Maydolong",
+        "Full_Name":"Patag, Maydolong"
+    },
+    {
+        "Barangay":"San Gabriel",
+        "Municipality":"Maydolong",
+        "Full_Name":"San Gabriel, Maydolong"
+    },
+    {
+        "Barangay":"Tagaslian",
+        "Municipality":"Maydolong",
+        "Full_Name":"Tagaslian, Maydolong"
+    },
+    {
+        "Barangay":"Anuron",
+        "Municipality":"Mercedes",
+        "Full_Name":"Anuron, Mercedes"
+    },
+    {
+        "Barangay":"Banuyo",
+        "Municipality":"Mercedes",
+        "Full_Name":"Banuyo, Mercedes"
+    },
+    {
+        "Barangay":"Barangay 1 Poblacion",
+        "Municipality":"Mercedes",
+        "Full_Name":"Barangay 1 Poblacion, Mercedes"
+    },
+    {
+        "Barangay":"Barangay 2 Poblacion",
+        "Municipality":"Mercedes",
+        "Full_Name":"Barangay 2 Poblacion, Mercedes"
+    },
+    {
+        "Barangay":"Barangay 3 Poblacion",
+        "Municipality":"Mercedes",
+        "Full_Name":"Barangay 3 Poblacion, Mercedes"
+    },
+    {
+        "Barangay":"Barangay 4 Poblacion",
+        "Municipality":"Mercedes",
+        "Full_Name":"Barangay 4 Poblacion, Mercedes"
+    },
+    {
+        "Barangay":"Bobon",
+        "Municipality":"Mercedes",
+        "Full_Name":"Bobon, Mercedes"
+    },
+    {
+        "Barangay":"Busay",
+        "Municipality":"Mercedes",
+        "Full_Name":"Busay, Mercedes"
+    },
+    {
+        "Barangay":"Buyayawon",
+        "Municipality":"Mercedes",
+        "Full_Name":"Buyayawon, Mercedes"
+    },
+    {
+        "Barangay":"Cabunga-an",
+        "Municipality":"Mercedes",
+        "Full_Name":"Cabunga-an, Mercedes"
+    },
+    {
+        "Barangay":"Cambante",
+        "Municipality":"Mercedes",
+        "Full_Name":"Cambante, Mercedes"
+    },
+    {
+        "Barangay":"Palamrag",
+        "Municipality":"Mercedes",
+        "Full_Name":"Palamrag, Mercedes"
+    },
+    {
+        "Barangay":"Port Kennedy",
+        "Municipality":"Mercedes",
+        "Full_Name":"Port Kennedy, Mercedes"
+    },
+    {
+        "Barangay":"San Jose",
+        "Municipality":"Mercedes",
+        "Full_Name":"San Jose, Mercedes"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Mercedes",
+        "Full_Name":"San Roque, Mercedes"
+    },
+    {
+        "Barangay":"Sung-an",
+        "Municipality":"Mercedes",
+        "Full_Name":"Sung-an, Mercedes"
+    },
+    {
+        "Barangay":"Agsam",
+        "Municipality":"Oras",
+        "Full_Name":"Agsam, Oras"
+    },
+    {
+        "Barangay":"Alang-alang",
+        "Municipality":"Oras",
+        "Full_Name":"Alang-alang, Oras"
+    },
+    {
+        "Barangay":"Bagacay",
+        "Municipality":"Oras",
+        "Full_Name":"Bagacay, Oras"
+    },
+    {
+        "Barangay":"Balingasag",
+        "Municipality":"Oras",
+        "Full_Name":"Balingasag, Oras"
+    },
+    {
+        "Barangay":"Balocawe",
+        "Municipality":"Oras",
+        "Full_Name":"Balocawe, Oras"
+    },
+    {
+        "Barangay":"Bantayan",
+        "Municipality":"Oras",
+        "Full_Name":"Bantayan, Oras"
+    },
+    {
+        "Barangay":"Batang",
+        "Municipality":"Oras",
+        "Full_Name":"Batang, Oras"
+    },
+    {
+        "Barangay":"Bato",
+        "Municipality":"Oras",
+        "Full_Name":"Bato, Oras"
+    },
+    {
+        "Barangay":"Binalayan",
+        "Municipality":"Oras",
+        "Full_Name":"Binalayan, Oras"
+    },
+    {
+        "Barangay":"Buntay",
+        "Municipality":"Oras",
+        "Full_Name":"Buntay, Oras"
+    },
+    {
+        "Barangay":"Burak",
+        "Municipality":"Oras",
+        "Full_Name":"Burak, Oras"
+    },
+    {
+        "Barangay":"Butnga",
+        "Municipality":"Oras",
+        "Full_Name":"Butnga, Oras"
+    },
+    {
+        "Barangay":"Cadian",
+        "Municipality":"Oras",
+        "Full_Name":"Cadian, Oras"
+    },
+    {
+        "Barangay":"Cagdine",
+        "Municipality":"Oras",
+        "Full_Name":"Cagdine, Oras"
+    },
+    {
+        "Barangay":"Cagpile",
+        "Municipality":"Oras",
+        "Full_Name":"Cagpile, Oras"
+    },
+    {
+        "Barangay":"Cagtoog",
+        "Municipality":"Oras",
+        "Full_Name":"Cagtoog, Oras"
+    },
+    {
+        "Barangay":"Camanga",
+        "Municipality":"Oras",
+        "Full_Name":"Camanga, Oras"
+    },
+    {
+        "Barangay":"Dalid",
+        "Municipality":"Oras",
+        "Full_Name":"Dalid, Oras"
+    },
+    {
+        "Barangay":"Dao",
+        "Municipality":"Oras",
+        "Full_Name":"Dao, Oras"
+    },
+    {
+        "Barangay":"Factoria",
+        "Municipality":"Oras",
+        "Full_Name":"Factoria, Oras"
+    },
+    {
+        "Barangay":"Gamot",
+        "Municipality":"Oras",
+        "Full_Name":"Gamot, Oras"
+    },
+    {
+        "Barangay":"Iwayan",
+        "Municipality":"Oras",
+        "Full_Name":"Iwayan, Oras"
+    },
+    {
+        "Barangay":"Japay",
+        "Municipality":"Oras",
+        "Full_Name":"Japay, Oras"
+    },
+    {
+        "Barangay":"Kalaw",
+        "Municipality":"Oras",
+        "Full_Name":"Kalaw, Oras"
+    },
+    {
+        "Barangay":"Mabuhay",
+        "Municipality":"Oras",
+        "Full_Name":"Mabuhay, Oras"
+    },
+    {
+        "Barangay":"Malingon",
+        "Municipality":"Oras",
+        "Full_Name":"Malingon, Oras"
+    },
+    {
+        "Barangay":"Minap-os",
+        "Municipality":"Oras",
+        "Full_Name":"Minap-os, Oras"
+    },
+    {
+        "Barangay":"Nadacpan",
+        "Municipality":"Oras",
+        "Full_Name":"Nadacpan, Oras"
+    },
+    {
+        "Barangay":"Naga",
+        "Municipality":"Oras",
+        "Full_Name":"Naga, Oras"
+    },
+    {
+        "Barangay":"Pangudtan",
+        "Municipality":"Oras",
+        "Full_Name":"Pangudtan, Oras"
+    },
+    {
+        "Barangay":"Paypayon",
+        "Municipality":"Oras",
+        "Full_Name":"Paypayon, Oras"
+    },
+    {
+        "Barangay":"Riverside",
+        "Municipality":"Oras",
+        "Full_Name":"Riverside, Oras"
+    },
+    {
+        "Barangay":"Rizal",
+        "Municipality":"Oras",
+        "Full_Name":"Rizal, Oras"
+    },
+    {
+        "Barangay":"Sabang",
+        "Municipality":"Oras",
+        "Full_Name":"Sabang, Oras"
+    },
+    {
+        "Barangay":"San Eduardo",
+        "Municipality":"Oras",
+        "Full_Name":"San Eduardo, Oras"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Oras",
+        "Full_Name":"San Roque, Oras"
+    },
+    {
+        "Barangay":"Santa Monica",
+        "Municipality":"Oras",
+        "Full_Name":"Santa Monica, Oras"
+    },
+    {
+        "Barangay":"Saugan",
+        "Municipality":"Oras",
+        "Full_Name":"Saugan, Oras"
+    },
+    {
+        "Barangay":"Saurong",
+        "Municipality":"Oras",
+        "Full_Name":"Saurong, Oras"
+    },
+    {
+        "Barangay":"Tawagan",
+        "Municipality":"Oras",
+        "Full_Name":"Tawagan, Oras"
+    },
+    {
+        "Barangay":"Tiguib",
+        "Municipality":"Oras",
+        "Full_Name":"Tiguib, Oras"
+    },
+    {
+        "Barangay":"Trinidad",
+        "Municipality":"Oras",
+        "Full_Name":"Trinidad, Oras"
+    },
+    {
+        "Barangay":"Alang-alang",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Alang-alang, Quinapondan"
+    },
+    {
+        "Barangay":"Anislag",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Anislag, Quinapondan"
+    },
+    {
+        "Barangay":"Bagte",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Bagte, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 1",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 1, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 2",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 2, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 3",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 3, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 4",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 4, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 5",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 5, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 6",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 6, Quinapondan"
+    },
+    {
+        "Barangay":"Barangay No. 7",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Barangay No. 7, Quinapondan"
+    },
+    {
+        "Barangay":"Buenavista",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Buenavista, Quinapondan"
+    },
+    {
+        "Barangay":"Caculangan",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Caculangan, Quinapondan"
+    },
+    {
+        "Barangay":"Cagdaja",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Cagdaja, Quinapondan"
+    },
+    {
+        "Barangay":"Cambilla",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Cambilla, Quinapondan"
+    },
+    {
+        "Barangay":"Cantenio",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Cantenio, Quinapondan"
+    },
+    {
+        "Barangay":"Naga",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Naga, Quinapondan"
+    },
+    {
+        "Barangay":"Paco",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Paco, Quinapondan"
+    },
+    {
+        "Barangay":"Palactad",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Palactad, Quinapondan"
+    },
+    {
+        "Barangay":"Rizal",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Rizal, Quinapondan"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Quinapondan",
+        "Full_Name":"San Isidro, Quinapondan"
+    },
+    {
+        "Barangay":"San Pedro",
+        "Municipality":"Quinapondan",
+        "Full_Name":"San Pedro, Quinapondan"
+    },
+    {
+        "Barangay":"San Vicente",
+        "Municipality":"Quinapondan",
+        "Full_Name":"San Vicente, Quinapondan"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Santa Cruz, Quinapondan"
+    },
+    {
+        "Barangay":"Santa Margarita",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Santa Margarita, Quinapondan"
+    },
+    {
+        "Barangay":"Santo Niño",
+        "Municipality":"Quinapondan",
+        "Full_Name":"Santo Niño, Quinapondan"
+    },
+    {
+        "Barangay":"Abejao",
+        "Municipality":"Salcedo",
+        "Full_Name":"Abejao, Salcedo"
+    },
+    {
+        "Barangay":"Alog",
+        "Municipality":"Salcedo",
+        "Full_Name":"Alog, Salcedo"
+    },
+    {
+        "Barangay":"Asgad",
+        "Municipality":"Salcedo",
+        "Full_Name":"Asgad, Salcedo"
+    },
+    {
+        "Barangay":"Bagtong",
+        "Municipality":"Salcedo",
+        "Full_Name":"Bagtong, Salcedo"
+    },
+    {
+        "Barangay":"Balud",
+        "Municipality":"Salcedo",
+        "Full_Name":"Balud, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 1",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 1, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 10",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 10, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 11",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 11, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 12",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 12, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 13",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 13, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 2",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 2, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 3",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 3, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 4",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 4, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 5",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 5, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 6",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 6, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 7",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 7, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 8",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 8, Salcedo"
+    },
+    {
+        "Barangay":"Barangay 9",
+        "Municipality":"Salcedo",
+        "Full_Name":"Barangay 9, Salcedo"
+    },
+    {
+        "Barangay":"Buabua",
+        "Municipality":"Salcedo",
+        "Full_Name":"Buabua, Salcedo"
+    },
+    {
+        "Barangay":"Burak",
+        "Municipality":"Salcedo",
+        "Full_Name":"Burak, Salcedo"
+    },
+    {
+        "Barangay":"Butig",
+        "Municipality":"Salcedo",
+        "Full_Name":"Butig, Salcedo"
+    },
+    {
+        "Barangay":"Cagaut",
+        "Municipality":"Salcedo",
+        "Full_Name":"Cagaut, Salcedo"
+    },
+    {
+        "Barangay":"Camanga",
+        "Municipality":"Salcedo",
+        "Full_Name":"Camanga, Salcedo"
+    },
+    {
+        "Barangay":"Cantomoja",
+        "Municipality":"Salcedo",
+        "Full_Name":"Cantomoja, Salcedo"
+    },
+    {
+        "Barangay":"Carapdapan",
+        "Municipality":"Salcedo",
+        "Full_Name":"Carapdapan, Salcedo"
+    },
+    {
+        "Barangay":"Caridad",
+        "Municipality":"Salcedo",
+        "Full_Name":"Caridad, Salcedo"
+    },
+    {
+        "Barangay":"Casili-on",
+        "Municipality":"Salcedo",
+        "Full_Name":"Casili-on, Salcedo"
+    },
+    {
+        "Barangay":"Iberan",
+        "Municipality":"Salcedo",
+        "Full_Name":"Iberan, Salcedo"
+    },
+    {
+        "Barangay":"Jagnaya",
+        "Municipality":"Salcedo",
+        "Full_Name":"Jagnaya, Salcedo"
+    },
+    {
+        "Barangay":"Lusod",
+        "Municipality":"Salcedo",
+        "Full_Name":"Lusod, Salcedo"
+    },
+    {
+        "Barangay":"Malbog",
+        "Municipality":"Salcedo",
+        "Full_Name":"Malbog, Salcedo"
+    },
+    {
+        "Barangay":"Maliwaliw",
+        "Municipality":"Salcedo",
+        "Full_Name":"Maliwaliw, Salcedo"
+    },
+    {
+        "Barangay":"Matarinao",
+        "Municipality":"Salcedo",
+        "Full_Name":"Matarinao, Salcedo"
+    },
+    {
+        "Barangay":"Naparaan",
+        "Municipality":"Salcedo",
+        "Full_Name":"Naparaan, Salcedo"
+    },
+    {
+        "Barangay":"Palanas",
+        "Municipality":"Salcedo",
+        "Full_Name":"Palanas, Salcedo"
+    },
+    {
+        "Barangay":"San Roque",
+        "Municipality":"Salcedo",
+        "Full_Name":"San Roque, Salcedo"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"Salcedo",
+        "Full_Name":"Santa Cruz, Salcedo"
+    },
+    {
+        "Barangay":"Seguinon",
+        "Municipality":"Salcedo",
+        "Full_Name":"Seguinon, Salcedo"
+    },
+    {
+        "Barangay":"Tacla-on",
+        "Municipality":"Salcedo",
+        "Full_Name":"Tacla-on, Salcedo"
+    },
+    {
+        "Barangay":"Tagbacan",
+        "Municipality":"Salcedo",
+        "Full_Name":"Tagbacan, Salcedo"
+    },
+    {
+        "Barangay":"Talangdawan",
+        "Municipality":"Salcedo",
+        "Full_Name":"Talangdawan, Salcedo"
+    },
+    {
+        "Barangay":"Barangay No. 1 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 1 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Barangay No. 2 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 2 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Barangay No. 3 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 3 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Barangay No. 4 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 4 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Barangay No. 5 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 5 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Barangay No. 6 Poblacion",
+        "Municipality":"San Julian",
+        "Full_Name":"Barangay No. 6 Poblacion, San Julian"
+    },
+    {
+        "Barangay":"Bunacan",
+        "Municipality":"San Julian",
+        "Full_Name":"Bunacan, San Julian"
+    },
+    {
+        "Barangay":"Campidhan",
+        "Municipality":"San Julian",
+        "Full_Name":"Campidhan, San Julian"
+    },
+    {
+        "Barangay":"Casoroy",
+        "Municipality":"San Julian",
+        "Full_Name":"Casoroy, San Julian"
+    },
+    {
+        "Barangay":"Libas",
+        "Municipality":"San Julian",
+        "Full_Name":"Libas, San Julian"
+    },
+    {
+        "Barangay":"Lunang",
+        "Municipality":"San Julian",
+        "Full_Name":"Lunang, San Julian"
+    },
+    {
+        "Barangay":"Nena",
+        "Municipality":"San Julian",
+        "Full_Name":"Nena, San Julian"
+    },
+    {
+        "Barangay":"Pagbabangnan",
+        "Municipality":"San Julian",
+        "Full_Name":"Pagbabangnan, San Julian"
+    },
+    {
+        "Barangay":"Putong",
+        "Municipality":"San Julian",
+        "Full_Name":"Putong, San Julian"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"San Julian",
+        "Full_Name":"San Isidro, San Julian"
+    },
+    {
+        "Barangay":"San Miguel",
+        "Municipality":"San Julian",
+        "Full_Name":"San Miguel, San Julian"
+    },
+    {
+        "Barangay":"Alugan",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Alugan, San Policarpo"
+    },
+    {
+        "Barangay":"Bahay",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Bahay, San Policarpo"
+    },
+    {
+        "Barangay":"Bangon",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Bangon, San Policarpo"
+    },
+    {
+        "Barangay":"Barangay No. 1",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Barangay No. 1, San Policarpo"
+    },
+    {
+        "Barangay":"Barangay No. 2",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Barangay No. 2, San Policarpo"
+    },
+    {
+        "Barangay":"Barangay No. 3",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Barangay No. 3, San Policarpo"
+    },
+    {
+        "Barangay":"Barangay No. 4",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Barangay No. 4, San Policarpo"
+    },
+    {
+        "Barangay":"Barangay No. 5",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Barangay No. 5, San Policarpo"
+    },
+    {
+        "Barangay":"Baras",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Baras, San Policarpo"
+    },
+    {
+        "Barangay":"Binogawan",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Binogawan, San Policarpo"
+    },
+    {
+        "Barangay":"Cajagwayan",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Cajagwayan, San Policarpo"
+    },
+    {
+        "Barangay":"Japunan",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Japunan, San Policarpo"
+    },
+    {
+        "Barangay":"Natividad",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Natividad, San Policarpo"
+    },
+    {
+        "Barangay":"Pangpang",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Pangpang, San Policarpo"
+    },
+    {
+        "Barangay":"Santa Cruz",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Santa Cruz, San Policarpo"
+    },
+    {
+        "Barangay":"Tabo",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Tabo, San Policarpo"
+    },
+    {
+        "Barangay":"Tan-awan",
+        "Municipality":"San Policarpo",
+        "Full_Name":"Tan-awan, San Policarpo"
+    },
+    {
+        "Barangay":"A-et",
+        "Municipality":"Sulat",
+        "Full_Name":"A-et, Sulat"
+    },
+    {
+        "Barangay":"Abucay",
+        "Municipality":"Sulat",
+        "Full_Name":"Abucay, Sulat"
+    },
+    {
+        "Barangay":"Baybay",
+        "Municipality":"Sulat",
+        "Full_Name":"Baybay, Sulat"
+    },
+    {
+        "Barangay":"Del Remedio",
+        "Municipality":"Sulat",
+        "Full_Name":"Del Remedio, Sulat"
+    },
+    {
+        "Barangay":"Kandalakit",
+        "Municipality":"Sulat",
+        "Full_Name":"Kandalakit, Sulat"
+    },
+    {
+        "Barangay":"Loyola Heights",
+        "Municipality":"Sulat",
+        "Full_Name":"Loyola Heights, Sulat"
+    },
+    {
+        "Barangay":"Mabini",
+        "Municipality":"Sulat",
+        "Full_Name":"Mabini, Sulat"
+    },
+    {
+        "Barangay":"Maglipay",
+        "Municipality":"Sulat",
+        "Full_Name":"Maglipay, Sulat"
+    },
+    {
+        "Barangay":"Maramara",
+        "Municipality":"Sulat",
+        "Full_Name":"Maramara, Sulat"
+    },
+    {
+        "Barangay":"Riverside",
+        "Municipality":"Sulat",
+        "Full_Name":"Riverside, Sulat"
+    },
+    {
+        "Barangay":"San Francisco",
+        "Municipality":"Sulat",
+        "Full_Name":"San Francisco, Sulat"
+    },
+    {
+        "Barangay":"San Isidro",
+        "Municipality":"Sulat",
+        "Full_Name":"San Isidro, Sulat"
+    },
+    {
+        "Barangay":"San Juan",
+        "Municipality":"Sulat",
+        "Full_Name":"San Juan, Sulat"
+    },
+    {
+        "Barangay":"San Mateo",
+        "Municipality":"Sulat",
+        "Full_Name":"San Mateo, Sulat"
+    },
+    {
+        "Barangay":"San Vicente",
+        "Municipality":"Sulat",
+        "Full_Name":"San Vicente, Sulat"
+    },
+    {
+        "Barangay":"Santo Niño",
+        "Municipality":"Sulat",
+        "Full_Name":"Santo Niño, Sulat"
+    },
+    {
+        "Barangay":"Santo Tomas",
+        "Municipality":"Sulat",
+        "Full_Name":"Santo Tomas, Sulat"
+    },
+    {
+        "Barangay":"Tabi",
+        "Municipality":"Sulat",
+        "Full_Name":"Tabi, Sulat"
+    },
+    {
+        "Barangay":"Batiawan",
+        "Municipality":"Taft",
+        "Full_Name":"Batiawan, Taft"
+    },
+    {
+        "Barangay":"Beto",
+        "Municipality":"Taft",
+        "Full_Name":"Beto, Taft"
+    },
+    {
+        "Barangay":"Binaloan",
+        "Municipality":"Taft",
+        "Full_Name":"Binaloan, Taft"
+    },
+    {
+        "Barangay":"Bongdo",
+        "Municipality":"Taft",
+        "Full_Name":"Bongdo, Taft"
+    },
+    {
+        "Barangay":"Dacul",
+        "Municipality":"Taft",
+        "Full_Name":"Dacul, Taft"
+    },
+    {
+        "Barangay":"Danao",
+        "Municipality":"Taft",
+        "Full_Name":"Danao, Taft"
+    },
+    {
+        "Barangay":"Del Remedios",
+        "Municipality":"Taft",
+        "Full_Name":"Del Remedios, Taft"
+    },
+    {
+        "Barangay":"Gayam",
+        "Municipality":"Taft",
+        "Full_Name":"Gayam, Taft"
+    },
+    {
+        "Barangay":"Lomatud",
+        "Municipality":"Taft",
+        "Full_Name":"Lomatud, Taft"
+    },
+    {
+        "Barangay":"Mabuhay",
+        "Municipality":"Taft",
+        "Full_Name":"Mabuhay, Taft"
+    },
+    {
+        "Barangay":"Malinao",
+        "Municipality":"Taft",
+        "Full_Name":"Malinao, Taft"
+    },
+    {
+        "Barangay":"Mantang",
+        "Municipality":"Taft",
+        "Full_Name":"Mantang, Taft"
+    },
+    {
+        "Barangay":"Nato",
+        "Municipality":"Taft",
+        "Full_Name":"Nato, Taft"
+    },
+    {
+        "Barangay":"Pangabutan",
+        "Municipality":"Taft",
+        "Full_Name":"Pangabutan, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 1",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 1, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 2",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 2, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 3",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 3, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 4",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 4, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 5",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 5, Taft"
+    },
+    {
+        "Barangay":"Poblacion Barangay 6",
+        "Municipality":"Taft",
+        "Full_Name":"Poblacion Barangay 6, Taft"
+    },
+    {
+        "Barangay":"Polangi",
+        "Municipality":"Taft",
+        "Full_Name":"Polangi, Taft"
+    },
+    {
+        "Barangay":"San Luis",
+        "Municipality":"Taft",
+        "Full_Name":"San Luis, Taft"
+    },
+    {
+        "Barangay":"San Pablo",
+        "Municipality":"Taft",
+        "Full_Name":"San Pablo, Taft"
+    },
+    {
+        "Barangay":"San Rafael",
+        "Municipality":"Taft",
+        "Full_Name":"San Rafael, Taft"
+    }
+]
