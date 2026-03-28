@@ -28,7 +28,7 @@ def standardize_reason(reason):
     return "Line Maintenance"
 
 # Load final.json
-with open('data/gold/final.json', 'r', encoding='utf-8') as f:
+with open('data/silver/stage_4_final/final.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Standardize all reasons
@@ -38,7 +38,7 @@ for record in data:
     record['Reason / Activity'] = standardized
 
 # Save back
-with open('data/gold/final.json', 'w', encoding='utf-8') as f:
+with open('data/silver/stage_4_final/final.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 # Display the mapping

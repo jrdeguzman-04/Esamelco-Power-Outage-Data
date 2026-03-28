@@ -290,7 +290,7 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
     
-    input_path = os.path.join(project_root, 'data', 'gold', 'semi_final.json')
-    output_path = os.path.join(project_root, 'data', 'gold', 'final.json')
+    input_path = os.path.join(project_root, 'data', 'silver', 'stage_3_standardized', 'semi_final.json')
+    output_path = os.path.join(project_root, 'data', 'silver', 'stage_4_final', 'final.json')
     
     transform_data(input_path, output_path)

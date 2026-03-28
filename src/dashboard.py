@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from datetime import datetime
 
-# Load data from semi_final.json
-DATA_FILE = Path(__file__).resolve().parents[1] / 'data' / 'gold' / 'semi_final.json'
+# Load data from final_1_cleaned.json
+DATA_FILE = Path(__file__).resolve().parents[1] / 'data' / 'gold' / 'final_1_cleaned.json'
 
 with open(DATA_FILE, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -46,8 +46,11 @@ df['Duration'] = df.get('Time', pd.Series()).fillna('').astype(str).apply(calcul
 
 # Sidebar filters
 st.sidebar.title('Filters')
-area_options = ['All'] + sorted(df['Affected Area(s)'].dropna().unique().tolist()) if 'Affected Area(s)' in df else ['All']
-selected_area = st.sidebar.selectbox('Affected Area(s)', area_options)
+barangay_options = ['All'] + sorted(df['Barangay'].dropna().unique().tolist()) if 'Barangay' in df else ['All']
+selected_barangay = st.sidebar.selectbox('Barangay', barangay_options)
+
+reason_options = ['All'] + sorted(df['Reason / Activity'].dropna().unique().tolist()) if 'Reason / Activity' in df else ['All']
+selected_reason = st.sidebar.selectbox('Reason / Activity', reason_options)
 
 start_date = st.sidebar.date_input('Start Date', value=df['Date'].min() if 'Date' in df else None)
 end_date = st.sidebar.date_input('End Date', value=df['Date'].max() if 'Date' in df else None)
@@ -58,8 +61,11 @@ if show_all:
     filtered_df = df.copy()
 else:
     filtered_df = df.copy()
-    if selected_area != 'All' and 'Affected Area(s)' in filtered_df.columns:
-        filtered_df = filtered_df[filtered_df['Affected Area(s)'] == selected_area]
+    if selected_barangay != 'All' and 'Barangay' in filtered_df.columns:
+        filtered_df = filtered_df[filtered_df['Barangay'] == selected_barangay]
+    
+    if selected_reason != 'All' and 'Reason / Activity' in filtered_df.columns:
+        filtered_df = filtered_df[filtered_df['Reason / Activity'] == selected_reason]
 
     if 'Date' in filtered_df.columns:
         if start_date:
@@ -72,7 +78,7 @@ st.title('ESAMELCO Power Interruptions Dashboard')
 
 # Table
 st.header('Power Outage Data Table')
-st.write('Data source: data/gold/semi_final.json')
+st.write('Data source: data/gold/final_1_cleaned.json')
 st.dataframe(filtered_df)
 
 # Download option
@@ -81,23 +87,38 @@ st.download_button('Download filtered data as CSV', csv, 'esamelco_outages_filte
 
 # Summary metrics
 st.subheader('Summary')
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 with col1:
     st.metric('Total Records', len(filtered_df))
 with col2:
     st.metric('Total Valid Dates', filtered_df['Date'].nunique() if 'Date' in filtered_df.columns else 0)
 with col3:
+    st.metric('Total Barangays', filtered_df['Barangay'].nunique() if 'Barangay' in filtered_df.columns else 0)
+with col4:
     st.metric('Total Outage Hours', round(filtered_df['Duration'].sum(), 2) if 'Duration' in filtered_df.columns else 0)
 
-# Bar chart
-if 'Affected Area(s)' in filtered_df.columns and 'Duration' in filtered_df.columns:
-    st.header('Total Outage Hours per Area')
-    area_duration = filtered_df.groupby('Affected Area(s)')['Duration'].sum().sort_values()
-    fig, ax = plt.subplots()
-    area_duration.plot(kind='barh', ax=ax, color='skyblue')
+# Bar chart by Barangay
+if 'Barangay' in filtered_df.columns and 'Duration' in filtered_df.columns:
+    st.header('Total Outage Hours per Barangay')
+    barangay_duration = filtered_df.groupby('Barangay')['Duration'].sum().sort_values()
+    fig, ax = plt.subplots(figsize=(10, 6))
+    barangay_duration.plot(kind='barh', ax=ax, color='skyblue')
     ax.set_xlabel('Total Hours')
-    ax.set_ylabel('Affected Area(s)')
-    ax.set_title('Total Outage Hours per Area')
+    ax.set_ylabel('Barangay')
+    ax.set_title('Total Outage Hours per Barangay')
+    st.pyplot(fig)
+
+# Bar chart by Reason
+if 'Reason / Activity' in filtered_df.columns:
+    st.header('Power Interruptions by Reason/Activity')
+    reason_count = filtered_df['Reason / Activity'].value_counts()
+    fig, ax = plt.subplots(figsize=(10, 6))
+    reason_count.plot(kind='bar', ax=ax, color='coral')
+    ax.set_xlabel('Reason / Activity')
+    ax.set_ylabel('Count')
+    ax.set_title('Number of Power Interruptions by Reason')
+    plt.xticks(rotation=45, ha='right')
+    st.pyplot(fig)
     plt.style.use('ggplot')
     st.pyplot(fig)
 

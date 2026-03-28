@@ -7,7 +7,7 @@ def load_semi_cleaned_data():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
     
-    semi_cleaned_path = os.path.join(project_root, 'data', 'silver', 'semi_cleaned_data.json')
+    semi_cleaned_path = os.path.join(project_root, 'data', 'silver', 'stage_1_filtered', 'semi_cleaned_data.json')
     
     try:
         with open(semi_cleaned_path, 'r', encoding='utf-8') as f:
@@ -74,7 +74,7 @@ def main():
     # Save to gold folder
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
-    output_path = os.path.join(project_root, 'data', 'gold', 'cleaned_data.json')
+    output_path = os.path.join(project_root, 'data', 'silver', 'stage_2_cleaned', 'cleaned_data.json')
     
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     

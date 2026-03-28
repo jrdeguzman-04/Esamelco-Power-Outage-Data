@@ -40,7 +40,7 @@ def normalize_time(time_str):
     return time_str.strip()
 
 def main():
-    with open('data/gold/semi_final.json', 'r', encoding='utf-8') as f:
+    with open('data/silver/stage_3_standardized/semi_final.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     output = []
@@ -118,7 +118,7 @@ def main():
                     "Original Post": post
                 })
     
-    with open('data/gold/final.json', 'w', encoding='utf-8') as f:
+    with open('data/silver/stage_4_final/final.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     
     print(f"✅ Complete! {len(output)} records generated")

@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # 1. Load the semi-cleaned JSON data into a DataFrame
-df = pd.read_json('data/silver/semi_cleaned_data.json')
+df = pd.read_json('data/silver/stage_1_filtered/semi_cleaned_data.json')
 
 # Rename columns for consistency
 df.rename(columns={
@@ -43,8 +43,7 @@ def normalize_area(area):
 
 df_exploded['Affected Area(s)'] = df_exploded['Affected Area(s)'].apply(normalize_area)
 
-# 5. Final Output: Show the first 10 rows and save as CSV and JSON
+# 5. Final Output: Show the first 10 rows and save as JSON
 print(df_exploded.head(10))
-df_exploded.to_csv('data/gold/final_barangay_schedule.csv', index=False)
-df_exploded.to_json('data/gold/final_barangay_schedule.json', orient='records', force_ascii=False, indent=4)
-print('Saved to data/gold/final_barangay_schedule.csv and data/gold/final_barangay_schedule.json')
+df_exploded.to_json('data/silver/stage_1_filtered/final_barangay_schedule.json', orient='records', force_ascii=False, indent=4)
+print('Saved to data/silver/stage_1_filtered/final_barangay_schedule.json')

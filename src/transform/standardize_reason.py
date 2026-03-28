@@ -39,7 +39,7 @@ def standardize_reason(reason_text):
     return "Line Maintenance"
 
 def main():
-    input_path = 'data/gold/final.json'
+    input_path = 'data/silver/stage_4_final/final.json'
     output_path = 'data/gold/final_1.json'
     
     # Read the final.json

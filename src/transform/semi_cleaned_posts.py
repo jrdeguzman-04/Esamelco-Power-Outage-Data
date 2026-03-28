@@ -3,7 +3,7 @@ import json
 
 # 1. Load the JSON file
 input_file = 'data/bronze/filtered_interruption data.json'
-output_file = 'data/silver/semi_cleaned_data.json'
+output_file = 'data/silver/stage_1_filtered/semi_cleaned_data.json'
 
 try:
     with open(input_file, 'r', encoding='utf-8') as f:

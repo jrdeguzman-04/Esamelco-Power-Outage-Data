@@ -290,10 +290,10 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
     
-    semi_cleaned_path = os.path.join(project_root, 'data', 'silver', 'semi_cleaned_data.json')
+    semi_cleaned_path = os.path.join(project_root, 'data', 'silver', 'stage_1_filtered', 'semi_cleaned_data.json')
     barangay_list_path = os.path.join(project_root, 'data', 'list_barangay_e.samar', 'eastern_samar_barangays.json')
-    output_path = os.path.join(project_root, 'data', 'gold', 'standardized_outages.json')
-    semi_final_path = os.path.join(project_root, 'data', 'gold', 'semi_final.json')
+    output_path = os.path.join(project_root, 'data', 'silver', 'stage_3_standardized', 'standardized_outages.json')
+    semi_final_path = os.path.join(project_root, 'data', 'silver', 'stage_3_standardized', 'semi_final.json')
 
     # Load data
     print("Loading semi-cleaned data...")

@@ -28,8 +28,8 @@ else:
     barangay_list = []
     municipality_list = []
 
-# 2. Load the CSV
-df = pd.read_csv('data/gold/final_barangay_schedule.csv')
+# 2. Load the JSON
+df = pd.read_json('data/silver/stage_1_filtered/final_barangay_schedule.json')
 
 # 3. Function to validate area
 def is_valid_area(area):
@@ -47,9 +47,8 @@ if data_source_available:
 else:
     df_cleaned = df.copy()
 
-# 5. Output to CSV and JSON
-df_cleaned.to_csv('data/gold/fully_cleaned_outages.csv', index=False)
-df_cleaned.to_json('data/gold/fully_cleaned_outages.json', orient='records', force_ascii=False, indent=4)
+# 5. Output to JSON
+df_cleaned.to_json('data/silver/stage_2_cleaned/fully_cleaned_outages.json', orient='records', force_ascii=False, indent=4)
 
 print(f"Filtered {len(df_cleaned)} rows out of {len(df)}")
-print("Saved to data/gold/fully_cleaned_outages.csv and data/gold/fully_cleaned_outages.json")
+print("Saved to data/silver/stage_2_cleaned/fully_cleaned_outages.json")
