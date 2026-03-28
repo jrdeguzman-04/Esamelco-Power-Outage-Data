@@ -173,7 +173,7 @@ def clean_output(input_file, output_file):
     for record in data:
         date = record.get('Date', '').strip()
         time = record.get('Time', '').strip()
-        barangay = record.get('Barangay', '').strip()
+        barangay = record.get('Affected Area(s)', '').strip()
         reason = record.get('Reason / Activity', '').strip()
         original_post = record.get('Original Post', '').strip()
         
@@ -268,6 +268,19 @@ def clean_output(input_file, output_file):
     
     cleaned_data = deduplicated_data
     
+    # Sort by date (newest to oldest) and then by time
+    def parse_date_for_sorting(date_str):
+        """Convert date string to datetime object for sorting"""
+        try:
+            return datetime.strptime(date_str, "%B %d, %Y")
+        except:
+            return datetime.now()
+    
+    cleaned_data.sort(
+        key=lambda x: parse_date_for_sorting(x['Date']),
+        reverse=True  # Newest first
+    )
+    
     # Save cleaned data
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -275,6 +288,7 @@ def clean_output(input_file, output_file):
     
     print(f"✅ Cleaned output saved to {output_file}")
     print(f"📊 Total records: {len(cleaned_data)}")
+    print(f"📅 Date range: {cleaned_data[0]['Date']} to {cleaned_data[-1]['Date']}")
     return cleaned_data
 
 def main():
