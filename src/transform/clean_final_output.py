@@ -202,14 +202,14 @@ def clean_output(input_file, output_file):
             cleaned_data.append({
                 "Date": "January 7, 2026",
                 "Time": "10:30 AM - 12:00 PM",
-                "Barangay": "Brgy. Maypangdan (Borongan)",
+                "Affected Area(s)": "Brgy. Maypangdan (Borongan)",
                 "Reason / Activity": "Equipment Maintenance",
                 "Original Post": original_post
             })
             cleaned_data.append({
                 "Date": "January 7, 2026",
                 "Time": "10:00 AM - 3:00 PM",
-                "Barangay": "Brgy. 2 (Balangkayan)",
+                "Affected Area(s)": "Brgy. 2 (Balangkayan)",
                 "Reason / Activity": "Vegetation Clearing",
                 "Original Post": original_post
             })
@@ -230,14 +230,14 @@ def clean_output(input_file, output_file):
                 cleaned_data.append({
                     "Date": "December 3, 2025",
                     "Time": "6:00 AM - 7:00 AM",
-                    "Barangay": substation,
+                    "Affected Area(s)": substation,
                     "Reason / Activity": normalized_reason,
                     "Original Post": original_post
                 })
                 cleaned_data.append({
                     "Date": "December 4, 2025",
                     "Time": "5:00 PM - 6:00 PM",
-                    "Barangay": substation,
+                    "Affected Area(s)": substation,
                     "Reason / Activity": normalized_reason,
                     "Original Post": original_post
                 })
@@ -251,7 +251,7 @@ def clean_output(input_file, output_file):
                 cleaned_data.append({
                     "Date": dt_date,
                     "Time": custom_time,
-                    "Barangay": brgy,
+                    "Affected Area(s)": brgy,
                     "Reason / Activity": normalized_reason,
                     "Original Post": original_post
                 })
@@ -261,7 +261,7 @@ def clean_output(input_file, output_file):
     deduplicated_data = []
     for record in cleaned_data:
         # Create a hashable key from record
-        key = (record['Date'], record['Time'], record['Barangay'], record['Reason / Activity'])
+        key = (record['Date'], record['Time'], record['Affected Area(s)'], record['Reason / Activity'])
         if key not in seen:
             seen.add(key)
             deduplicated_data.append(record)

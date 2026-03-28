@@ -113,7 +113,7 @@ def main():
                 output.append({
                     "Date": date_norm,
                     "Time": time_norm,
-                    "Barangay": brgy,
+                    "Affected Area(s)": brgy,
                     "Reason / Activity": reason_clean,
                     "Original Post": post
                 })

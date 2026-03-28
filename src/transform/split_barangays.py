@@ -265,7 +265,7 @@ def transform_data(input_file, output_file):
             final_record = {
                 "Date": date,
                 "Time": time,
-                "Barangay": barangay,
+                "Affected Area(s)": barangay,
                 "Reason / Activity": reason,
                 "Original Post": original_post
             }
