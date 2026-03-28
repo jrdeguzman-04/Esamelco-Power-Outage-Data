@@ -10,8 +10,11 @@ TRANSFORM_SCRIPTS = [
     "explode_areas.py",
     "validate_areas.py",
     "standardize_areas.py",
+    "split_barangays.py",
     "split_barangays_v2.py",
     "standardize_reason.py",
+    "standardize_reasons.py",
+    "clean_final_output.py",
 ]
 
 

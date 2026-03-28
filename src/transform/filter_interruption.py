@@ -1,5 +1,6 @@
 import json
 import re
+import unicodedata
 
 def filter_interruption():
     try:
@@ -18,7 +19,9 @@ def filter_interruption():
 
     for post in data:
         text = post.get("message", "")
-        if re.search("INTERRUPTION", text, re.IGNORECASE):
+        # Normalize unicode characters to ASCII equivalents for matching
+        normalized_text = unicodedata.normalize('NFKD', text)
+        if re.search("INTERRUPTION|POWER|SCHEDULED", normalized_text, re.IGNORECASE):
             matches.append(post)
 
     if matches:
