@@ -88,6 +88,8 @@ def extract_clean_area(original_post, current_area):
     cleaned = re.sub(r',\s*Thank you.*$', '', cleaned, flags=re.IGNORECASE).strip()
     cleaned = re.sub(r',\s*\*All substations.*$', '', cleaned, flags=re.IGNORECASE).strip()
     cleaned = re.sub(r'[,\s]*\(entire province\)\s*,.*$', r' (entire province)', cleaned, flags=re.IGNORECASE).strip()
+    cleaned = re.sub(r',\s*Reminder:.*$', '', cleaned, flags=re.IGNORECASE).strip()
+    cleaned = re.sub(r'\s*Reminder:.*$', '', cleaned, flags=re.IGNORECASE).strip()
     
     # STRICT OVERRIDE: Replace ESSU references with full name
     if re.search(r'\b(ESSU|ESSU Main Campus|ESSU Compound)\b', cleaned, re.IGNORECASE):

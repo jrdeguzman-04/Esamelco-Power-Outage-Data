@@ -42,7 +42,10 @@ def normalize_time(time_str):
     
     time_str = time_str.strip()
     
-    # Handle "NN" -> "PM"
+    # Handle "MN" -> "AM" (midnight notation)
+    time_str = re.sub(r'\bMN\b', 'AM', time_str, flags=re.IGNORECASE)
+    
+    # Handle "NN" -> "PM" (noon notation)
     time_str = re.sub(r'\bNN\b', 'PM', time_str, flags=re.IGNORECASE)
     
     # Handle "am/pm" -> "AM/PM"
@@ -105,14 +108,17 @@ def extract_barangay_info(original_post, current_barangay):
     if 'Sabang South' in original_post and 'Borongan' in current_barangay:
         return ["Brgy. Sabang South (Borongan)"], [None]
     
-    # If it's already in good format, return as-is
-    if '(' in current_barangay and ')' in current_barangay:
-        return [current_barangay], [None]
-    
-    # Handle comma/ampersand separated
-    if ',' in current_barangay or ' and ' in current_barangay:
-        parts = re.split(r'[,]|\s+and\s+', current_barangay)
-        return [p.strip() for p in parts if p.strip()], [None] * len(parts)
+    # Handle municipalities split: "Municipalities of Oras, San Policarpo, Arteche and Jipapad, (Brgy...)"
+    if 'Municipalities of' in current_barangay or 'municipalities of' in current_barangay:
+        # Remove parenthetical info first
+        cleaned = re.sub(r'\s*\([^)]*\)', '', current_barangay)
+        # Extract municipality names
+        cleaned = cleaned.replace('Municipalities of ', '').replace('municipalities of ', '')
+        # Split on commas and 'and'
+        municipalities = re.split(r'[,]\s*|,\s*and\s+|\s+and\s+', cleaned)
+        municipalities = [m.strip() for m in municipalities if m.strip() and len(m.strip()) > 1]
+        if municipalities:
+            return municipalities, [None] * len(municipalities)
     
     # Handle range like "Brgy. 01- 05"
     if re.search(r'Brgy\.\s+(\d+)-\s*(\d+)', current_barangay):
@@ -138,6 +144,20 @@ def extract_barangay_info(original_post, current_barangay):
                 substations.append(f"{word} Substation")
         if substations:
             return substations, [None] * len(substations)
+    
+    # Handle comma/ampersand separated with multiple items (but not parenthetical)
+    if (',' in current_barangay or ' and ' in current_barangay) and 'Municipalities' not in current_barangay:
+        # Remove parenthetical info first
+        cleaned = re.sub(r'\s*\([^)]*\)', '', current_barangay)
+        # Split on commas and 'and'
+        parts = re.split(r'[,]\s*|,\s*and\s+|\s+and\s+', cleaned)
+        parts = [p.strip() for p in parts if p.strip() and len(p.strip()) > 1]
+        if len(parts) > 1:
+            return parts, [None] * len(parts)
+    
+    # If it's already in good format, return as-is
+    if '(' in current_barangay and ')' in current_barangay:
+        return [current_barangay], [None]
     
     return [current_barangay], [None]
 
